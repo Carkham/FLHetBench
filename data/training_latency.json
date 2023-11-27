@@ -1,0 +1,149 @@
+[
+    {
+        "Phone Model": "iPhone 14",
+        "Vit Latency": 334.013,
+        "Vit STD": 10.626,
+        "ResNet Latency": 54.22,
+        "ResNet STD": 0.343
+    },
+    {
+        "Phone Model": "iPhone 14",
+        "Vit Latency": 538.965,
+        "Vit STD": 1.56,
+        "ResNet Latency": 81.9588,
+        "ResNet STD": 2.651
+    },
+    {
+        "Phone Model": "HUAWEI MatePad 11",
+        "Vit Latency": 358.0,
+        "Vit STD": 5.78,
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0.36
+    },
+    {
+        "Phone Model": "vivo x80",
+        "Vit Latency": 347.0,
+        "Vit STD": 2.38,
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0.76
+    },
+    {
+        "Phone Model": "vivo x80",
+        "Vit Latency": 545.0,
+        "Vit STD": 20.9,
+        "ResNet Latency": 107.0,
+        "ResNet STD": 11.1
+    },
+    {
+        "Phone Model": "vivo x80",
+        "Vit Latency": 553.0,
+        "Vit STD": 24.4,
+        "ResNet Latency": 114.0,
+        "ResNet STD": 7.08
+    },
+    {
+        "Phone Model": "MGA-AL00",
+        "Vit Latency": 1173.0,
+        "Vit STD": 3.24,
+        "ResNet Latency": 291.0,
+        "ResNet STD": 1.06
+    },
+    {
+        "Phone Model": "Redmi K30 Pro",
+        "Vit Latency": 374.0,
+        "Vit STD": 10.5,
+        "ResNet Latency": 93.1,
+        "ResNet STD": 2.02
+    },
+    {
+        "Phone Model": "iphone 13",
+        "Vit Latency": 354.803,
+        "Vit STD": 16.056,
+        "ResNet Latency": 57.863,
+        "ResNet STD": 57.863
+    },
+    {
+        "Phone Model": "Xiaomi 12S Pro",
+        "Vit Latency": 316.700012,
+        "Vit STD": 18.427334,
+        "ResNet Latency": 86.800003,
+        "ResNet STD": 20.252846
+    },
+    {
+        "Phone Model": "oppo reno10 pro+",
+        "Vit Latency": 350.299988,
+        "Vit STD": 16.99052,
+        "ResNet Latency": 78.199997,
+        "ResNet STD": 1.549193
+    },
+    {
+        "Phone Model": "Xiaomi 13",
+        "Vit Latency": 1118.0,
+        "Vit STD": 1646.034058,
+        "ResNet Latency": 59.299999,
+        "ResNet STD": 2.750757
+    },
+    {
+        "Phone Model": "Xiaomi 14pro",
+        "Vit Latency": 232.100006,
+        "Vit STD": 1.197219,
+        "ResNet Latency": 54.799999,
+        "ResNet STD": 1.032769
+    },
+    {
+        "Phone Model": "Xiaomi 10",
+        "Vit Latency": 732.799988,
+        "Vit STD": 18.250114,
+        "ResNet Latency": 169.600006,
+        "ResNet STD": 30.696363
+    },
+    {
+        "Phone Model": "Honor magic5",
+        "Vit Latency": 467.799988,
+        "Vit STD": 58.493683,
+        "ResNet Latency": 109.099998,
+        "ResNet STD": 3.071373
+    },
+    {
+        "Phone Model": "HUAWEI P40 pro",
+        "Vit Latency": 426.0,
+        "Vit STD": 56.13,
+        "ResNet Latency": 93.699997,
+        "ResNet STD": 2.002776
+    },
+    {
+        "Phone Model": "iPhone 14",
+        "Vit Latency": 339.937,
+        "Vit STD": 20.329,
+        "ResNet Latency": 56.0766,
+        "ResNet STD": 0.375
+    },
+    {
+        "Phone Model": "iPad Air 4",
+        "Vit Latency": 390.332,
+        "Vit STD": 30.449,
+        "ResNet Latency": 53.7257,
+        "ResNet STD": 0.248
+    },
+    {
+        "Phone Model": "Redmi K40",
+        "Vit Latency": 360.0,
+        "Vit STD": 2.54,
+        "ResNet Latency": 101.1,
+        "ResNet STD": 1.02
+    },
+    {
+        "Phone Model": "Realme GT",
+        "Vit Latency": 372.0,
+        "Vit STD": 8.15,
+        "ResNet Latency": 92.2,
+        "ResNet STD": 4.67
+    },
+    {
+        "Phone Model": "Realme GT",
+        "Vit Latency": 380.0,
+        "Vit STD": 5.42,
+        "ResNet Latency": 92.1,
+        "ResNet STD": 3.65
+    }
+]

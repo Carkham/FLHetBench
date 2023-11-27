@@ -1,0 +1,5403 @@
+[
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519487039349000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-A520F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+                "tac": "35362709"
+            },
+            "carrier": "mt:s",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 10,
+            "app_version": "1.0.1",
+            "timestamp": 1519487039318000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            31692.736,
+            37861.76,
+            40001.72283150548,
+            40150.930139720556,
+            40642.613545816734,
+            40682.32567432567,
+            42276.352,
+            42360.66932270916,
+            43035.9121756487,
+            43524.27517447657,
+            43940.507492507495,
+            44073.046953046956,
+            44366.72,
+            44904.832,
+            45119.298804780876
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519019578972000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": "-1,-1,86;-1,-1,98;-1,-1,84;-1,-1,84;-1,-1,89;-1,-1,181;-1,-1,176;-1,-1,141;-1,-1,142;-1,-1,121;-1,-1,142;-1,-1,155;-1,-1,146;-1,-1,169;-1,-1,173;-1,-1,175;-1,-1,167;-1,-1,149;-1,-1,172;-1,-1,164;-1,-1,104;-1,-1,112",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850508"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.73,
+                "longitude": -73.12
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1519019578946000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            27528.2,
+            27793.2,
+            30568.0,
+            34460.21717670286,
+            37905.6,
+            37960.63936063936,
+            38774.8,
+            41544.655344655344,
+            42326.46184340931,
+            43205.6,
+            49247.6,
+            49821.05263157895,
+            54643.0,
+            55761.43856143856,
+            55985.62874251497
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534253700870000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:4898911, RELEASE:9, SDK_INT:28",
+            "device_info": {
+                "model": "Pixel 2",
+                "manufacturer": "Google",
+                "os": "INCREMENTAL:4898911, RELEASE:9, SDK_INT:28",
+                "tac": "35753708"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 17.45,
+                "longitude": 78.36
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1534253700815000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            19543.546875,
+            20066.385685884692,
+            23894.848,
+            26556.251246261218,
+            33734.976,
+            34031.37662337662,
+            35609.35064935065,
+            38772.38811881188,
+            39093.81094527363,
+            41339.772681954135,
+            48973.330669330666,
+            53320.798403193614,
+            62338.64,
+            71217.32534930139,
+            77212.032
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1543080564788000,
+        "device_properties": {
+            "battery_level": 55,
+            "cell_info": "2007,23161,19;2007,23181,15;2007,12271,14;2007,2732,13;2007,23183,12;2082,23072,12",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1534215660, RELEASE:5.1, SDK_INT:22",
+            "device_info": {
+                "model": "X9009",
+                "manufacturer": "OPPO",
+                "os": "INCREMENTAL:1534215660, RELEASE:5.1, SDK_INT:22",
+                "tac": "86123003"
+            },
+            "carrier": "Digi",
+            "location": {
+                "latitude": 3.17,
+                "longitude": 101.68
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 27,
+            "app_version": "1.1.3",
+            "timestamp": 1543080564747000,
+            "location_type": "network",
+            "is_battery_charging": true
+        },
+        "tcp_speed_results": [
+            3064.347183748846,
+            41262.22577422577,
+            42491.552,
+            42591.77622377622,
+            42731.488,
+            43176.992,
+            44013.659701492536,
+            44069.69030969031,
+            44210.88,
+            44702.112,
+            44983.44111776447,
+            45290.464,
+            46181.504,
+            46232.928,
+            46403.58041958042,
+            46906.944
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1518538588458000,
+        "device_properties": {
+            "battery_level": 13,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G531FXXU1AQK2, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-G531F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G531FXXU1AQK2, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35692507"
+            },
+            "carrier": "vodafone IT",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 4,
+            "app_version": "1.1.3",
+            "timestamp": 1518538588454000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            34859.52,
+            39836.16,
+            40095.58441558442,
+            41251.11111111111,
+            42635.52,
+            42647.04,
+            43262.53968253968,
+            43338.24,
+            43566.08,
+            43755.52,
+            43781.44,
+            43862.72,
+            43931.84,
+            44144.64,
+            44553.92
+        ]
+    },
+    {
+        "id": "6544367028273152",
+        "timestamp": 1534100112693000,
+        "device_properties": {
+            "battery_level": 78,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:vHAJC-0, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "5056E",
+                "manufacturer": "TCL",
+                "os": "INCREMENTAL:vHAJC-0, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "35153108"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 29.58,
+                "longitude": -95.64
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 15,
+            "app_version": "1.0",
+            "timestamp": 1534100112676000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35322.42424242424,
+            37144.64,
+            39267.79661016949,
+            39809.15084915085,
+            40630.336,
+            40932.608,
+            41764.89110889111,
+            42131.008,
+            42235.264,
+            42680.704,
+            43228.25974025974,
+            44223.48851148851,
+            45061.76,
+            45098.98602794411,
+            47106.88
+        ]
+    },
+    {
+        "id": "5545946314178560",
+        "timestamp": 1542028817533000,
+        "device_properties": {
+            "battery_level": 50,
+            "cell_info": null,
+            "ssid": "\"MyCharterWiFiee-2G\"",
+            "bssid": "c0:ff:d4:83:e2:ee",
+            "host_apps": [
+                "New Mobiperf"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": "",
+            "network_type": "Wifi",
+            "cell_rssi": "CDMA:-120|EVDO:-120|GSM:85|LTE:2147483647|",
+            "os_version": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-T380",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "3eb29984"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 38.81,
+                "longitude": -90.68
+            },
+            "country_code": "",
+            "wifi_ip_address": "192.168.1.2",
+            "request_app": "New Mobiperf",
+            "rssi": -35,
+            "app_version": "3.4.5",
+            "timestamp": 1542028817515000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            30952.448,
+            35271.096903096906,
+            36287.424,
+            37207.808,
+            39582.528,
+            40606.784,
+            40703.808,
+            41009.024,
+            43396.8,
+            44398.183613030604,
+            46011.776,
+            46531.55908639523,
+            49411.008,
+            49750.208,
+            50681.024
+        ]
+    },
+    {
+        "id": "5094432508477440",
+        "timestamp": 1537500351927000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": "-1,-1,53;-1,-1,71",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-G965U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35332209"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.68,
+                "longitude": -73.89
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0.1",
+            "timestamp": 1537500351912000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32128.768,
+            32402.797202797203,
+            35914.48551448552,
+            36245.968253968254,
+            37084.38761238761,
+            37565.09378084896,
+            37777.93020937189,
+            40231.85628742515,
+            40733.832669322706,
+            41840.71641791045,
+            42410.53892215569,
+            46070.0998003992,
+            49660.608,
+            56845.91026919242,
+            58994.08973080758
+        ]
+    },
+    {
+        "id": "5680423082393600",
+        "timestamp": 1514901944147000,
+        "device_properties": {
+            "battery_level": 59,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G930VVRU4BQK4, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-G930V",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G930VVRU4BQK4, RELEASE:7.0, SDK_INT:24",
+                "tac": "35977507"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 33.74,
+                "longitude": -111.96
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.2",
+            "timestamp": 1514901944132000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            5750.1427929950605,
+            40022.72,
+            40076.251246261214,
+            42872.384,
+            43179.88023952096,
+            43240.62885572139,
+            44083.456,
+            44324.88888888889,
+            44532.664676616914,
+            45149.28271728272,
+            45200.768,
+            45358.67332667333,
+            45698.88,
+            45911.21506442022,
+            46475.008,
+            46584.015968063875
+        ]
+    },
+    {
+        "id": "5728757302165504",
+        "timestamp": 1519141460089000,
+        "device_properties": {
+            "battery_level": 93,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N920VVRS3CRA1, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-N920V",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N920VVRS3CRA1, RELEASE:7.0, SDK_INT:24",
+                "tac": "99000701"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 40.64,
+                "longitude": -73.57
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1519141460078000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            26674.445554445556,
+            33651.52,
+            33931.17764471058,
+            33946.368,
+            34129.92504930966,
+            36159.61752988048,
+            38332.299102691926,
+            42470.82071713147,
+            44737.46613545817,
+            45717.418581418584,
+            48990.666666666664,
+            49445.76,
+            52139.584,
+            52186.28913260219,
+            53023.07477567298
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1544264101777000,
+        "device_properties": {
+            "battery_level": 77,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-J200GU",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35897607"
+            },
+            "carrier": "AIS",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 14,
+            "app_version": "1.0",
+            "timestamp": 1544264101754000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35660.8,
+            37462.4,
+            37676.8,
+            39238.4,
+            39884.8,
+            40419.38674579624,
+            42392.0,
+            43433.6,
+            43780.8,
+            43870.4,
+            43926.4,
+            43926.4,
+            43995.209580838324,
+            44161.6,
+            44165.40755467197
+        ]
+    },
+    {
+        "id": "5659936423936000",
+        "timestamp": 1523027449907000,
+        "device_properties": {
+            "battery_level": 98,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:T237PVPS1BPL1, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-T237P",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T237PVPS1BPL1, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "99000476"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1523027449628000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32541.666333666333,
+            35477.90818363273,
+            36297.46253746254,
+            36823.08300395257,
+            39693.12,
+            40497.68588469185,
+            41418.048,
+            41430.272,
+            42681.792,
+            44864.832,
+            45346.112,
+            48368.448,
+            48778.14556331007,
+            48975.552,
+            50031.296
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1514868419280000,
+        "device_properties": {
+            "battery_level": 42,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:4448085, RELEASE:8.1.0, SDK_INT:27",
+            "device_info": {
+                "model": "Pixel XL",
+                "manufacturer": "Google",
+                "os": "INCREMENTAL:4448085, RELEASE:8.1.0, SDK_INT:27",
+                "tac": "35253008"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 29.63,
+                "longitude": -82.61
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1514868419263000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            4043.844776119403,
+            21128.65469061876,
+            40851.20638085743,
+            41517.856,
+            42799.232,
+            42803.30158730159,
+            44131.712,
+            44260.6993006993,
+            44538.144,
+            44715.808,
+            44793.15884115884,
+            44937.888,
+            45131.9121756487,
+            45658.405594405594,
+            72923.38461538461
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534253700870000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:4898911, RELEASE:9, SDK_INT:28",
+            "device_info": {
+                "model": "Pixel 2",
+                "manufacturer": "Google",
+                "os": "INCREMENTAL:4898911, RELEASE:9, SDK_INT:28",
+                "tac": "35753708"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 17.45,
+                "longitude": 78.36
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1534253700815000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            19543.546875,
+            20066.385685884692,
+            23894.848,
+            26556.251246261218,
+            33734.976,
+            34031.37662337662,
+            35609.35064935065,
+            38772.38811881188,
+            39093.81094527363,
+            41339.772681954135,
+            48973.330669330666,
+            53320.798403193614,
+            62338.64,
+            71217.32534930139,
+            77212.032
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1528739998410000,
+        "device_properties": {
+            "battery_level": 38,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:v7EFQ-0, RELEASE:6.0, SDK_INT:23",
+            "device_info": {
+                "model": "5045X",
+                "manufacturer": "TCL",
+                "os": "INCREMENTAL:v7EFQ-0, RELEASE:6.0, SDK_INT:23",
+                "tac": "35662707"
+            },
+            "carrier": "EE",
+            "location": {
+                "latitude": 51.11,
+                "longitude": -0.2
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 11,
+            "app_version": "1.0",
+            "timestamp": 1528739998378000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            36776.064,
+            39109.83548067394,
+            39487.968,
+            40965.184,
+            41097.472,
+            41550.72,
+            41571.504,
+            41769.936,
+            42027.584,
+            42263.184,
+            42519.568,
+            42951.072,
+            43655.92015968064,
+            44051.904,
+            44228.288
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1533229112579000,
+        "device_properties": {
+            "battery_level": 97,
+            "cell_info": "5004,691,6",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1525420436, RELEASE:7.0, SDK_INT:22",
+            "device_info": {
+                "model": "SM-G955F",
+                "manufacturer": "SM-G955F",
+                "os": "INCREMENTAL:1525420436, RELEASE:7.0, SDK_INT:22",
+                "tac": "35875808"
+            },
+            "carrier": "Digi.Mobil",
+            "location": {
+                "latitude": 41.35,
+                "longitude": -1.65
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 10,
+            "app_version": "1.1.3",
+            "timestamp": 1533229112546000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            33309.248,
+            36551.94438927507,
+            36709.696,
+            38987.50849150849,
+            40232.08791208791,
+            42406.82071713147,
+            44181.376,
+            44192.96,
+            44231.89651741293,
+            44558.4,
+            44661.568,
+            45473.536,
+            45566.208,
+            46041.152,
+            46329.67664670659
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1532084051136000,
+        "device_properties": {
+            "battery_level": 63,
+            "cell_info": "-1,-1,48",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1494311484.01, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "P5526A",
+                "manufacturer": "Polaroid",
+                "os": "INCREMENTAL:1494311484.01, RELEASE:7.0, SDK_INT:24",
+                "tac": "35757508"
+            },
+            "carrier": "TELCEL",
+            "location": {
+                "latitude": 19.06,
+                "longitude": -98.23
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 26,
+            "app_version": "1.1.3",
+            "timestamp": 1532084051099000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            33396.672,
+            34161.216,
+            34369.728,
+            38227.2,
+            38574.72,
+            41038.848,
+            41192.704,
+            42837.632,
+            44495.98401598402,
+            45397.696,
+            45478.784,
+            45625.606330365976,
+            46764.608,
+            49023.488,
+            49683.776
+        ]
+    },
+    {
+        "id": "5676830073815040",
+        "timestamp": 1535794948020000,
+        "device_properties": {
+            "battery_level": 45,
+            "cell_info": null,
+            "ssid": "\"WLAN-382860\"",
+            "bssid": "5c:dc:96:90:ff:9b",
+            "host_apps": [
+                "New Mobiperf"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": "",
+            "network_type": "Wifi",
+            "cell_rssi": "CDMA:-4|EVDO:-4|GSM:-105|LTE:-105|LTE:-102|",
+            "os_version": "INCREMENTAL:A520FXXU5CRGB, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-A520F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:A520FXXU5CRGB, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "a5dfb17d"
+            },
+            "carrier": "Telekom.de",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": "de",
+            "wifi_ip_address": "192.168.2.114",
+            "request_app": "New Mobiperf",
+            "rssi": -37,
+            "app_version": "3.4.5",
+            "timestamp": 1535794947959000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39261.53846153846,
+            39762.95114656032,
+            39877.04590818363,
+            40825.04486540379,
+            40826.88,
+            41076.21890547263,
+            42655.298804780876,
+            42796.20553359684,
+            43070.84915084915,
+            43577.22277722278,
+            44048.431568431566,
+            44219.2,
+            44375.04,
+            44941.796407185626,
+            44963.67632367632
+        ]
+    },
+    {
+        "id": "6316291648389120",
+        "timestamp": 1525681304396000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:C791B190, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "HWV31",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:C791B190, RELEASE:7.0, SDK_INT:24",
+                "tac": "86751803"
+            },
+            "carrier": "KDDI",
+            "location": {
+                "latitude": 36.1,
+                "longitude": 139.23
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1525681304352000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37439.008,
+            38006.66533466533,
+            38141.12287712288,
+            39188.704,
+            40180.395604395606,
+            40411.248,
+            41117.856,
+            42036.87025948104,
+            42555.81218781219,
+            42642.81037924152,
+            43058.224,
+            43850.23552894212,
+            44018.781218781216,
+            44169.99600798403,
+            49227.024
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1526242300328000,
+        "device_properties": {
+            "battery_level": 60,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:C432B395, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "EVA-L09",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:C432B395, RELEASE:7.0, SDK_INT:24",
+                "tac": "86982702"
+            },
+            "carrier": "YouSee",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1526242300317000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32020.01986097319,
+            32506.112,
+            34001.952,
+            38481.96603396603,
+            40908.27743634767,
+            41883.17282717283,
+            42102.80239520958,
+            42855.616,
+            43060.512,
+            44074.336,
+            44522.61338661339,
+            45675.34865134865,
+            45842.784,
+            45996.2390438247,
+            51615.36
+        ]
+    },
+    {
+        "id": "5757334940811264",
+        "timestamp": 1544144506804000,
+        "device_properties": {
+            "battery_level": 71,
+            "cell_info": "-1,-1,18;-1,-1,1",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:185, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Moto E (4)",
+                "manufacturer": "motorola",
+                "os": "INCREMENTAL:185, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35650908"
+            },
+            "carrier": "TELCEL GSM",
+            "location": {
+                "latitude": 27.63,
+                "longitude": -105.19
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 11,
+            "app_version": "1.1.3",
+            "timestamp": 1544144506769000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39316.096,
+            40161.728,
+            40318.33766233766,
+            40474.496,
+            40820.8,
+            41180.928,
+            41227.456,
+            41389.632,
+            41517.056,
+            42107.84,
+            42223.68,
+            43324.16,
+            43593.33466533467,
+            43996.032,
+            45779.968
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519019578972000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": "-1,-1,86;-1,-1,98;-1,-1,84;-1,-1,84;-1,-1,89;-1,-1,181;-1,-1,176;-1,-1,141;-1,-1,142;-1,-1,121;-1,-1,142;-1,-1,155;-1,-1,146;-1,-1,169;-1,-1,173;-1,-1,175;-1,-1,167;-1,-1,149;-1,-1,172;-1,-1,164;-1,-1,104;-1,-1,112",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850508"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.73,
+                "longitude": -73.12
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1519019578946000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            27528.2,
+            27793.2,
+            30568.0,
+            34460.21717670286,
+            37905.6,
+            37960.63936063936,
+            38774.8,
+            41544.655344655344,
+            42326.46184340931,
+            43205.6,
+            49247.6,
+            49821.05263157895,
+            54643.0,
+            55761.43856143856,
+            55985.62874251497
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519487039349000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-A520F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+                "tac": "35362709"
+            },
+            "carrier": "mt:s",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 10,
+            "app_version": "1.0.1",
+            "timestamp": 1519487039318000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            31692.736,
+            37861.76,
+            40001.72283150548,
+            40150.930139720556,
+            40642.613545816734,
+            40682.32567432567,
+            42276.352,
+            42360.66932270916,
+            43035.9121756487,
+            43524.27517447657,
+            43940.507492507495,
+            44073.046953046956,
+            44366.72,
+            44904.832,
+            45119.298804780876
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1515168608340000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": "-1,-1,-116;-1,-1,-121;-1,-1,-111;-1,-1,-121;-1,-1,-112;-1,-1,-113",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "Neffos Y50",
+                "manufacturer": "TP-LINK",
+                "os": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "86239903"
+            },
+            "carrier": "3 ITA",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 2,
+            "app_version": "1.1.2",
+            "timestamp": 1515168608311000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37192.64,
+            37829.18065153011,
+            38684.16,
+            38999.68253968254,
+            40492.8,
+            41276.16,
+            43073.28,
+            43237.00897308076,
+            43712.96,
+            44098.56,
+            44363.52,
+            44526.48756218905,
+            44812.8,
+            45607.68,
+            47167.87212787213
+        ]
+    },
+    {
+        "id": "5668515822436352",
+        "timestamp": 1524011465215000,
+        "device_properties": {
+            "battery_level": 27,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J700TUVU3BQK3, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-J700T",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J700TUVU3BQK3, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35561108"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 47.67,
+                "longitude": -122.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1524011465206000,
+            "location_type": "network",
+            "is_battery_charging": true
+        },
+        "tcp_speed_results": [
+            35312.212523719165,
+            36108.8,
+            38826.75149105368,
+            40311.104,
+            40673.472,
+            41050.106930693066,
+            41663.68031968032,
+            42340.48,
+            42582.336,
+            42852.27504911592,
+            44964.096,
+            45452.736,
+            45932.544,
+            45947.264,
+            47742.848
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519487039349000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-A520F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+                "tac": "35362709"
+            },
+            "carrier": "mt:s",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 10,
+            "app_version": "1.0.1",
+            "timestamp": 1519487039318000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            31692.736,
+            37861.76,
+            40001.72283150548,
+            40150.930139720556,
+            40642.613545816734,
+            40682.32567432567,
+            42276.352,
+            42360.66932270916,
+            43035.9121756487,
+            43524.27517447657,
+            43940.507492507495,
+            44073.046953046956,
+            44366.72,
+            44904.832,
+            45119.298804780876
+        ]
+    },
+    {
+        "id": "5750031617359872",
+        "timestamp": 1516268677510000,
+        "device_properties": {
+            "battery_level": 74,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G928FXXS3CQL6, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-G928F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G928FXXS3CQL6, RELEASE:7.0, SDK_INT:24",
+                "tac": "35312107"
+            },
+            "carrier": "T-Mobile  NL",
+            "location": {
+                "latitude": 52.1,
+                "longitude": 5.22
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 12,
+            "app_version": "1.2",
+            "timestamp": 1516268677492000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            33521.756487025945,
+            35069.1924227318,
+            35462.13786213786,
+            35963.2,
+            37284.8,
+            37339.72055888223,
+            38898.203592814374,
+            39748.8,
+            40827.14570858284,
+            42116.8,
+            44043.956043956045,
+            45187.2,
+            50100.49652432969,
+            55702.6973026973,
+            56475.2
+        ]
+    },
+    {
+        "id": "5765785288966144",
+        "timestamp": 1532407755762000,
+        "device_properties": {
+            "battery_level": 67,
+            "cell_info": "-1,-1,68;-1,-1,77",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:V9.6.2.0.NEGMIFD, RELEASE:7.1.2, SDK_INT:25",
+            "device_info": {
+                "model": "Redmi 5 Plus",
+                "manufacturer": "Xiaomi",
+                "os": "INCREMENTAL:V9.6.2.0.NEGMIFD, RELEASE:7.1.2, SDK_INT:25",
+                "tac": "86506003"
+            },
+            "carrier": "??????",
+            "location": {
+                "latitude": 22.3,
+                "longitude": 114.24
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1532407755749000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39346.90618762475,
+            40312.007992007995,
+            40833.6,
+            40868.352,
+            40972.608,
+            41808.84210526316,
+            41924.14755732802,
+            42102.720953326716,
+            42339.52,
+            42397.44,
+            42550.35528942116,
+            42797.632,
+            42889.216,
+            43075.648,
+            44042.368
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1518538588458000,
+        "device_properties": {
+            "battery_level": 13,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G531FXXU1AQK2, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-G531F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G531FXXU1AQK2, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35692507"
+            },
+            "carrier": "vodafone IT",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 4,
+            "app_version": "1.1.3",
+            "timestamp": 1518538588454000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            34859.52,
+            39836.16,
+            40095.58441558442,
+            41251.11111111111,
+            42635.52,
+            42647.04,
+            43262.53968253968,
+            43338.24,
+            43566.08,
+            43755.52,
+            43781.44,
+            43862.72,
+            43931.84,
+            44144.64,
+            44553.92
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1544264101777000,
+        "device_properties": {
+            "battery_level": 77,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-J200GU",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35897607"
+            },
+            "carrier": "AIS",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 14,
+            "app_version": "1.0",
+            "timestamp": 1544264101754000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35660.8,
+            37462.4,
+            37676.8,
+            39238.4,
+            39884.8,
+            40419.38674579624,
+            42392.0,
+            43433.6,
+            43780.8,
+            43870.4,
+            43926.4,
+            43926.4,
+            43995.209580838324,
+            44161.6,
+            44165.40755467197
+        ]
+    },
+    {
+        "id": "5203516087861248",
+        "timestamp": 1520610340489000,
+        "device_properties": {
+            "battery_level": 67,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850308"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 42.77,
+                "longitude": -73.93
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1520610340484000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            23556.21978021978,
+            32011.203718048026,
+            32698.26294820717,
+            35023.40859140859,
+            37173.16036036036,
+            37250.28571428572,
+            39901.73026973027,
+            39982.754491017964,
+            40937.856,
+            47136.47384007897,
+            47672.07192807193,
+            48751.808,
+            54443.64506480558,
+            54549.46107784431,
+            55318.80239520958
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1541700036743000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": "-1,-1,69;-1,-1,87;-1,-1,83;-1,-1,80;-1,-1,82",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+            "device_info": {
+                "model": "CPH1831",
+                "manufacturer": "OPPO",
+                "os": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+                "tac": "86880403"
+            },
+            "carrier": "MY MAXIS",
+            "location": {
+                "latitude": 5.35,
+                "longitude": 100.45
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1541700036708000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35718.144,
+            36819.14257228315,
+            38365.46131243878,
+            40127.296703296706,
+            40656.17582417582,
+            41181.184,
+            41514.048,
+            41963.456,
+            43125.57842157842,
+            43386.05988023952,
+            43467.776,
+            44116.97102897103,
+            44301.312,
+            44920.832,
+            46131.136
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1532084051136000,
+        "device_properties": {
+            "battery_level": 63,
+            "cell_info": "-1,-1,48",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1494311484.01, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "P5526A",
+                "manufacturer": "Polaroid",
+                "os": "INCREMENTAL:1494311484.01, RELEASE:7.0, SDK_INT:24",
+                "tac": "35757508"
+            },
+            "carrier": "TELCEL",
+            "location": {
+                "latitude": 19.06,
+                "longitude": -98.23
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 26,
+            "app_version": "1.1.3",
+            "timestamp": 1532084051099000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            33396.672,
+            34161.216,
+            34369.728,
+            38227.2,
+            38574.72,
+            41038.848,
+            41192.704,
+            42837.632,
+            44495.98401598402,
+            45397.696,
+            45478.784,
+            45625.606330365976,
+            46764.608,
+            49023.488,
+            49683.776
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534618103126000,
+        "device_properties": {
+            "battery_level": 61,
+            "cell_info": "-1,-1,66;-1,-1,82;-1,-1,86;-1,-1,86;-1,-1,87",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris X Pro",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35862708"
+            },
+            "carrier": "Movistar",
+            "location": {
+                "latitude": 35.89,
+                "longitude": -5.31
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1534618103068000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32587.956043956045,
+            36271.7125748503,
+            40132.224,
+            42749.12,
+            43150.4,
+            43246.16183816184,
+            43347.328,
+            43364.16,
+            43393.664,
+            43421.41575274178,
+            43428.416,
+            43499.008,
+            43585.344,
+            43636.928,
+            43952.07992007992
+        ]
+    },
+    {
+        "id": "5231941255168000",
+        "timestamp": 1542028727458000,
+        "device_properties": {
+            "battery_level": 50,
+            "cell_info": null,
+            "ssid": "\"MyCharterWiFiee-2G\"",
+            "bssid": "c0:ff:d4:83:e2:ee",
+            "host_apps": [
+                "New Mobiperf"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": "",
+            "network_type": "Wifi",
+            "cell_rssi": "CDMA:-120|EVDO:-120|GSM:85|LTE:2147483647|",
+            "os_version": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-T380",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "3eb29984"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 38.81,
+                "longitude": -90.68
+            },
+            "country_code": "",
+            "wifi_ip_address": "192.168.1.2",
+            "request_app": "New Mobiperf",
+            "rssi": -35,
+            "app_version": "3.4.5",
+            "timestamp": 1542028727423000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            31789.723383084576,
+            31902.336,
+            34728.90129611167,
+            37773.025550660794,
+            39100.31380337637,
+            40887.27843137255,
+            42209.88952380952,
+            42351.473579262216,
+            43280.87912087912,
+            44772.16,
+            45038.592,
+            47018.08047105005,
+            47262.72,
+            51514.693306693305,
+            55116.672
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1545586030028000,
+        "device_properties": {
+            "battery_level": 74,
+            "cell_info": "-1,-1,77;-1,-1,90;-1,-1,86;-1,-1,86",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1514, RELEASE:7.1.2, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris V Plus",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1514, RELEASE:7.1.2, SDK_INT:25",
+                "tac": "35285909"
+            },
+            "carrier": "Orange SP",
+            "location": {
+                "latitude": 42.54,
+                "longitude": -1.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1545586029992000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39959.552,
+            40203.294117647056,
+            40469.248,
+            40566.6013986014,
+            40874.688,
+            41366.18581418582,
+            41785.555333998,
+            41990.00999000999,
+            42339.92422731804,
+            43051.392,
+            43133.63672654691,
+            44077.12,
+            44162.55489021956,
+            44345.542457542455,
+            45194.432
+        ]
+    },
+    {
+        "id": "5697982787747840",
+        "timestamp": 1520610496393000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850308"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 42.77,
+                "longitude": -73.93
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1520610496388000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            20068.353525322742,
+            20461.83266932271,
+            22197.086705202313,
+            33548.617305976804,
+            33738.869130869134,
+            37552.52747252747,
+            38874.337972167,
+            40225.984,
+            40960.93385214008,
+            47157.642357642355,
+            56395.48554336989,
+            57551.88877855015,
+            66648.4630738523,
+            68119.168
+        ]
+    },
+    {
+        "id": "5102167744577536",
+        "timestamp": 1527845717927000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G950USQS2BRB1, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-G950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G950USQS2BRB1, RELEASE:7.0, SDK_INT:24",
+                "tac": "35903208"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 40.9,
+                "longitude": -90.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1527845717912000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            1325.8338783518639,
+            32860.52603706973,
+            33971.314172447965,
+            37566.912,
+            37606.912,
+            39061.396078431375,
+            40549.7631840796,
+            40914.688,
+            42838.72780487805,
+            44345.92027141646,
+            48082.793650793654,
+            48814.45878848064,
+            49354.176,
+            49956.544,
+            58568.704,
+            60636.992
+        ]
+    },
+    {
+        "id": "5094432508477440",
+        "timestamp": 1537500351927000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": "-1,-1,53;-1,-1,71",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-G965U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35332209"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.68,
+                "longitude": -73.89
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0.1",
+            "timestamp": 1537500351912000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32128.768,
+            32402.797202797203,
+            35914.48551448552,
+            36245.968253968254,
+            37084.38761238761,
+            37565.09378084896,
+            37777.93020937189,
+            40231.85628742515,
+            40733.832669322706,
+            41840.71641791045,
+            42410.53892215569,
+            46070.0998003992,
+            49660.608,
+            56845.91026919242,
+            58994.08973080758
+        ]
+    },
+    {
+        "id": "6544367028273152",
+        "timestamp": 1534100112693000,
+        "device_properties": {
+            "battery_level": 78,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:vHAJC-0, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "5056E",
+                "manufacturer": "TCL",
+                "os": "INCREMENTAL:vHAJC-0, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "35153108"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 29.58,
+                "longitude": -95.64
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 15,
+            "app_version": "1.0",
+            "timestamp": 1534100112676000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35322.42424242424,
+            37144.64,
+            39267.79661016949,
+            39809.15084915085,
+            40630.336,
+            40932.608,
+            41764.89110889111,
+            42131.008,
+            42235.264,
+            42680.704,
+            43228.25974025974,
+            44223.48851148851,
+            45061.76,
+            45098.98602794411,
+            47106.88
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1527431845225000,
+        "device_properties": {
+            "battery_level": 62,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+            "device_info": {
+                "model": "GT-I9505",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+                "tac": "35584606"
+            },
+            "carrier": "Orange",
+            "location": {
+                "latitude": 36.7,
+                "longitude": -4.44
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1527431845170000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            30066.816,
+            36323.072,
+            36948.77922077922,
+            38705.269841269845,
+            40081.646353646356,
+            41279.04,
+            42761.792,
+            43343.98401598402,
+            43700.096,
+            44378.304,
+            44517.312,
+            46741.03496503497,
+            47378.56,
+            47395.42057942058,
+            48261.46031746032
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1520886136449000,
+        "device_properties": {
+            "battery_level": 87,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+            "device_info": {
+                "model": "GT-I9505",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+                "tac": "35684505"
+            },
+            "carrier": "I TIM",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1520886136298000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            28684.8,
+            30585.6,
+            33626.24,
+            34208.32,
+            34635.84,
+            37902.89710289711,
+            44766.72,
+            46683.87612387612,
+            47741.44,
+            48262.25324027916,
+            48306.88,
+            48481.6,
+            48762.31536926148,
+            49092.8,
+            49578.56
+        ]
+    },
+    {
+        "id": "5697982787747840",
+        "timestamp": 1520610496393000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850308"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 42.77,
+                "longitude": -73.93
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1520610496388000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            20068.353525322742,
+            20461.83266932271,
+            22197.086705202313,
+            33548.617305976804,
+            33738.869130869134,
+            37552.52747252747,
+            38874.337972167,
+            40225.984,
+            40960.93385214008,
+            47157.642357642355,
+            56395.48554336989,
+            57551.88877855015,
+            66648.4630738523,
+            68119.168
+        ]
+    },
+    {
+        "id": "5743868070854656",
+        "timestamp": 1537926297280000,
+        "device_properties": {
+            "battery_level": 94,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:A720FXXU3CRF3, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-A720F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:A720FXXU3CRF3, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35575808"
+            },
+            "carrier": "AIS",
+            "location": {
+                "latitude": 17.76,
+                "longitude": 102.18
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 7,
+            "app_version": "1.1.3",
+            "timestamp": 1537926297256000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37377.01789264414,
+            37543.68,
+            37670.4,
+            40193.532934131734,
+            40280.0396432111,
+            40486.54037886341,
+            40935.40918163673,
+            42662.73180458624,
+            43188.48,
+            43463.90438247012,
+            44358.88446215139,
+            45562.63473053892,
+            45621.49253731343,
+            46296.071076011845,
+            49086.72
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1542789085499000,
+        "device_properties": {
+            "battery_level": 75,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-J600GF",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35861809"
+            },
+            "carrier": "VODAFONEIN | Vodafone IN",
+            "location": {
+                "latitude": 28.66,
+                "longitude": 77.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1542789085485000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32998.24,
+            35258.1876247505,
+            38251.017964071856,
+            38927.296,
+            41456.207792207795,
+            41849.958041958045,
+            42017.472,
+            42423.008,
+            43873.888,
+            44553.6,
+            44913.44,
+            45336.16,
+            45450.368,
+            46518.528,
+            48398.08383233533
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1542789085499000,
+        "device_properties": {
+            "battery_level": 75,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-J600GF",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35861809"
+            },
+            "carrier": "VODAFONEIN | Vodafone IN",
+            "location": {
+                "latitude": 28.66,
+                "longitude": 77.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1542789085485000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32998.24,
+            35258.1876247505,
+            38251.017964071856,
+            38927.296,
+            41456.207792207795,
+            41849.958041958045,
+            42017.472,
+            42423.008,
+            43873.888,
+            44553.6,
+            44913.44,
+            45336.16,
+            45450.368,
+            46518.528,
+            48398.08383233533
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1544264101777000,
+        "device_properties": {
+            "battery_level": 77,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-J200GU",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35897607"
+            },
+            "carrier": "AIS",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 14,
+            "app_version": "1.0",
+            "timestamp": 1544264101754000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35660.8,
+            37462.4,
+            37676.8,
+            39238.4,
+            39884.8,
+            40419.38674579624,
+            42392.0,
+            43433.6,
+            43780.8,
+            43870.4,
+            43926.4,
+            43926.4,
+            43995.209580838324,
+            44161.6,
+            44165.40755467197
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519019578972000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": "-1,-1,86;-1,-1,98;-1,-1,84;-1,-1,84;-1,-1,89;-1,-1,181;-1,-1,176;-1,-1,141;-1,-1,142;-1,-1,121;-1,-1,142;-1,-1,155;-1,-1,146;-1,-1,169;-1,-1,173;-1,-1,175;-1,-1,167;-1,-1,149;-1,-1,172;-1,-1,164;-1,-1,104;-1,-1,112",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850508"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.73,
+                "longitude": -73.12
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1519019578946000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            27528.2,
+            27793.2,
+            30568.0,
+            34460.21717670286,
+            37905.6,
+            37960.63936063936,
+            38774.8,
+            41544.655344655344,
+            42326.46184340931,
+            43205.6,
+            49247.6,
+            49821.05263157895,
+            54643.0,
+            55761.43856143856,
+            55985.62874251497
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1515168608340000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": "-1,-1,-116;-1,-1,-121;-1,-1,-111;-1,-1,-121;-1,-1,-112;-1,-1,-113",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "Neffos Y50",
+                "manufacturer": "TP-LINK",
+                "os": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "86239903"
+            },
+            "carrier": "3 ITA",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 2,
+            "app_version": "1.1.2",
+            "timestamp": 1515168608311000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37192.64,
+            37829.18065153011,
+            38684.16,
+            38999.68253968254,
+            40492.8,
+            41276.16,
+            43073.28,
+            43237.00897308076,
+            43712.96,
+            44098.56,
+            44363.52,
+            44526.48756218905,
+            44812.8,
+            45607.68,
+            47167.87212787213
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519758104779000,
+        "device_properties": {
+            "battery_level": 87,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1478541657, RELEASE:6.0, SDK_INT:23",
+            "device_info": {
+                "model": "TM800A620M",
+                "manufacturer": "NUVISION",
+                "os": "INCREMENTAL:1478541657, RELEASE:6.0, SDK_INT:23",
+                "tac": "e38b85bd"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 42.09,
+                "longitude": -87.96
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1519758104678000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            38645.482071713144,
+            38806.4,
+            40242.816,
+            40410.24,
+            40567.168,
+            40764.096,
+            41922.496,
+            43127.232,
+            44013.952,
+            44453.056,
+            44540.48,
+            44801.46613545817,
+            45397.696,
+            45404.032,
+            45722.048
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1542789085499000,
+        "device_properties": {
+            "battery_level": 75,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-J600GF",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35861809"
+            },
+            "carrier": "VODAFONEIN | Vodafone IN",
+            "location": {
+                "latitude": 28.66,
+                "longitude": 77.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1542789085485000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32998.24,
+            35258.1876247505,
+            38251.017964071856,
+            38927.296,
+            41456.207792207795,
+            41849.958041958045,
+            42017.472,
+            42423.008,
+            43873.888,
+            44553.6,
+            44913.44,
+            45336.16,
+            45450.368,
+            46518.528,
+            48398.08383233533
+        ]
+    },
+    {
+        "id": "6544367028273152",
+        "timestamp": 1534100112693000,
+        "device_properties": {
+            "battery_level": 78,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:vHAJC-0, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "5056E",
+                "manufacturer": "TCL",
+                "os": "INCREMENTAL:vHAJC-0, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "35153108"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 29.58,
+                "longitude": -95.64
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 15,
+            "app_version": "1.0",
+            "timestamp": 1534100112676000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35322.42424242424,
+            37144.64,
+            39267.79661016949,
+            39809.15084915085,
+            40630.336,
+            40932.608,
+            41764.89110889111,
+            42131.008,
+            42235.264,
+            42680.704,
+            43228.25974025974,
+            44223.48851148851,
+            45061.76,
+            45098.98602794411,
+            47106.88
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1542789085499000,
+        "device_properties": {
+            "battery_level": 75,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-J600GF",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35861809"
+            },
+            "carrier": "VODAFONEIN | Vodafone IN",
+            "location": {
+                "latitude": 28.66,
+                "longitude": 77.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1542789085485000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32998.24,
+            35258.1876247505,
+            38251.017964071856,
+            38927.296,
+            41456.207792207795,
+            41849.958041958045,
+            42017.472,
+            42423.008,
+            43873.888,
+            44553.6,
+            44913.44,
+            45336.16,
+            45450.368,
+            46518.528,
+            48398.08383233533
+        ]
+    },
+    {
+        "id": "5759051853987840",
+        "timestamp": 1523796828692000,
+        "device_properties": {
+            "battery_level": 97,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQU3CRC2, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQU3CRC2, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35850308"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 42.77,
+                "longitude": -73.95
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1523796828686000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            25724.8,
+            34454.976,
+            34867.84,
+            35952.14414414414,
+            37137.006993006995,
+            37259.99223300971,
+            38144.94674556213,
+            42781.572854291415,
+            43050.985074626864,
+            44963.84,
+            44967.08639523337,
+            48003.06086956522,
+            49706.06993006993,
+            50517.227408143,
+            58579.264
+        ]
+    },
+    {
+        "id": "6598217865101312",
+        "timestamp": 1515420543285000,
+        "device_properties": {
+            "battery_level": 90,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G930VVRU4BQK4, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-G930V",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G930VVRU4BQK4, RELEASE:7.0, SDK_INT:24",
+                "tac": "35977507"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 33.74,
+                "longitude": -111.96
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.2",
+            "timestamp": 1515420543264000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            17844.683316683317,
+            23627.84320875114,
+            35568.128,
+            37509.545816733065,
+            42123.63636363636,
+            42586.53346653347,
+            44656.32,
+            45583.04,
+            45722.048,
+            46740.63073852295,
+            49232.0,
+            49243.584,
+            49313.088,
+            50645.248,
+            51618.26973026973
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1542788953033000,
+        "device_properties": {
+            "battery_level": 75,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-J600GF",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35861809"
+            },
+            "carrier": "VODAFONEIN | Vodafone IN",
+            "location": {
+                "latitude": 28.66,
+                "longitude": 77.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1542788953015000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            34134.912,
+            37299.36,
+            37961.952,
+            39664.128,
+            40569.56286266925,
+            40840.8,
+            42565.824,
+            42637.42657342657,
+            43925.312,
+            44162.522954091815,
+            44382.24,
+            45342.20979020979,
+            45616.032,
+            46444.256,
+            49820.064
+        ]
+    },
+    {
+        "id": "6316291648389120",
+        "timestamp": 1525681304396000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:C791B190, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "HWV31",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:C791B190, RELEASE:7.0, SDK_INT:24",
+                "tac": "86751803"
+            },
+            "carrier": "KDDI",
+            "location": {
+                "latitude": 36.1,
+                "longitude": 139.23
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1525681304352000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37439.008,
+            38006.66533466533,
+            38141.12287712288,
+            39188.704,
+            40180.395604395606,
+            40411.248,
+            41117.856,
+            42036.87025948104,
+            42555.81218781219,
+            42642.81037924152,
+            43058.224,
+            43850.23552894212,
+            44018.781218781216,
+            44169.99600798403,
+            49227.024
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1520614808699000,
+        "device_properties": {
+            "battery_level": 63,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:00WW_5_22C, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "TA-1033",
+                "manufacturer": "HMD Global",
+                "os": "INCREMENTAL:00WW_5_22C, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35602208"
+            },
+            "carrier": "O2 - UK",
+            "location": {
+                "latitude": 52.25,
+                "longitude": 0.41
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 3,
+            "app_version": "1.1.3",
+            "timestamp": 1520614808601000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35918.33110047847,
+            38470.464,
+            39157.888,
+            40118.153846153844,
+            41221.74277168494,
+            41533.696,
+            41913.92,
+            42244.45771144279,
+            42506.944,
+            43503.296,
+            44031.872,
+            44302.144,
+            45253.44,
+            45345.024,
+            45496.704
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1545586030028000,
+        "device_properties": {
+            "battery_level": 74,
+            "cell_info": "-1,-1,77;-1,-1,90;-1,-1,86;-1,-1,86",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1514, RELEASE:7.1.2, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris V Plus",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1514, RELEASE:7.1.2, SDK_INT:25",
+                "tac": "35285909"
+            },
+            "carrier": "Orange SP",
+            "location": {
+                "latitude": 42.54,
+                "longitude": -1.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1545586029992000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39959.552,
+            40203.294117647056,
+            40469.248,
+            40566.6013986014,
+            40874.688,
+            41366.18581418582,
+            41785.555333998,
+            41990.00999000999,
+            42339.92422731804,
+            43051.392,
+            43133.63672654691,
+            44077.12,
+            44162.55489021956,
+            44345.542457542455,
+            45194.432
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534618103126000,
+        "device_properties": {
+            "battery_level": 61,
+            "cell_info": "-1,-1,66;-1,-1,82;-1,-1,86;-1,-1,86;-1,-1,87",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris X Pro",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35862708"
+            },
+            "carrier": "Movistar",
+            "location": {
+                "latitude": 35.89,
+                "longitude": -5.31
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1534618103068000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32587.956043956045,
+            36271.7125748503,
+            40132.224,
+            42749.12,
+            43150.4,
+            43246.16183816184,
+            43347.328,
+            43364.16,
+            43393.664,
+            43421.41575274178,
+            43428.416,
+            43499.008,
+            43585.344,
+            43636.928,
+            43952.07992007992
+        ]
+    },
+    {
+        "id": "5102167744577536",
+        "timestamp": 1527845717927000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G950USQS2BRB1, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-G950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G950USQS2BRB1, RELEASE:7.0, SDK_INT:24",
+                "tac": "35903208"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 40.9,
+                "longitude": -90.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1527845717912000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            1325.8338783518639,
+            32860.52603706973,
+            33971.314172447965,
+            37566.912,
+            37606.912,
+            39061.396078431375,
+            40549.7631840796,
+            40914.688,
+            42838.72780487805,
+            44345.92027141646,
+            48082.793650793654,
+            48814.45878848064,
+            49354.176,
+            49956.544,
+            58568.704,
+            60636.992
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1532274565627000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:T807AUCU1BOG2, RELEASE:5.0.2, SDK_INT:21",
+            "device_info": {
+                "model": "SAMSUNG-SM-T807A",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T807AUCU1BOG2, RELEASE:5.0.2, SDK_INT:21",
+                "tac": "35595506"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 28.34,
+                "longitude": -82.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 0,
+            "app_version": "1.2",
+            "timestamp": 1532274565601000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            42321.6,
+            42463.105788423156,
+            42529.94616151545,
+            42580.203796203794,
+            42621.25074925075,
+            42629.12,
+            42629.12,
+            42635.456,
+            42663.872,
+            42670.208,
+            42679.11288711289,
+            42704.96,
+            42713.83016983017,
+            42798.37125748503,
+            42849.216
+        ]
+    },
+    {
+        "id": "5094432508477440",
+        "timestamp": 1537500351927000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": "-1,-1,53;-1,-1,71",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-G965U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35332209"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.68,
+                "longitude": -73.89
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0.1",
+            "timestamp": 1537500351912000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32128.768,
+            32402.797202797203,
+            35914.48551448552,
+            36245.968253968254,
+            37084.38761238761,
+            37565.09378084896,
+            37777.93020937189,
+            40231.85628742515,
+            40733.832669322706,
+            41840.71641791045,
+            42410.53892215569,
+            46070.0998003992,
+            49660.608,
+            56845.91026919242,
+            58994.08973080758
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1515168608340000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": "-1,-1,-116;-1,-1,-121;-1,-1,-111;-1,-1,-121;-1,-1,-112;-1,-1,-113",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "Neffos Y50",
+                "manufacturer": "TP-LINK",
+                "os": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "86239903"
+            },
+            "carrier": "3 ITA",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 2,
+            "app_version": "1.1.2",
+            "timestamp": 1515168608311000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37192.64,
+            37829.18065153011,
+            38684.16,
+            38999.68253968254,
+            40492.8,
+            41276.16,
+            43073.28,
+            43237.00897308076,
+            43712.96,
+            44098.56,
+            44363.52,
+            44526.48756218905,
+            44812.8,
+            45607.68,
+            47167.87212787213
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1541700036743000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": "-1,-1,69;-1,-1,87;-1,-1,83;-1,-1,80;-1,-1,82",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+            "device_info": {
+                "model": "CPH1831",
+                "manufacturer": "OPPO",
+                "os": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+                "tac": "86880403"
+            },
+            "carrier": "MY MAXIS",
+            "location": {
+                "latitude": 5.35,
+                "longitude": 100.45
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1541700036708000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35718.144,
+            36819.14257228315,
+            38365.46131243878,
+            40127.296703296706,
+            40656.17582417582,
+            41181.184,
+            41514.048,
+            41963.456,
+            43125.57842157842,
+            43386.05988023952,
+            43467.776,
+            44116.97102897103,
+            44301.312,
+            44920.832,
+            46131.136
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1526242300328000,
+        "device_properties": {
+            "battery_level": 60,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:C432B395, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "EVA-L09",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:C432B395, RELEASE:7.0, SDK_INT:24",
+                "tac": "86982702"
+            },
+            "carrier": "YouSee",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1526242300317000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32020.01986097319,
+            32506.112,
+            34001.952,
+            38481.96603396603,
+            40908.27743634767,
+            41883.17282717283,
+            42102.80239520958,
+            42855.616,
+            43060.512,
+            44074.336,
+            44522.61338661339,
+            45675.34865134865,
+            45842.784,
+            45996.2390438247,
+            51615.36
+        ]
+    },
+    {
+        "id": "5765785288966144",
+        "timestamp": 1532407755762000,
+        "device_properties": {
+            "battery_level": 67,
+            "cell_info": "-1,-1,68;-1,-1,77",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:V9.6.2.0.NEGMIFD, RELEASE:7.1.2, SDK_INT:25",
+            "device_info": {
+                "model": "Redmi 5 Plus",
+                "manufacturer": "Xiaomi",
+                "os": "INCREMENTAL:V9.6.2.0.NEGMIFD, RELEASE:7.1.2, SDK_INT:25",
+                "tac": "86506003"
+            },
+            "carrier": "??????",
+            "location": {
+                "latitude": 22.3,
+                "longitude": 114.24
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1532407755749000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39346.90618762475,
+            40312.007992007995,
+            40833.6,
+            40868.352,
+            40972.608,
+            41808.84210526316,
+            41924.14755732802,
+            42102.720953326716,
+            42339.52,
+            42397.44,
+            42550.35528942116,
+            42797.632,
+            42889.216,
+            43075.648,
+            44042.368
+        ]
+    },
+    {
+        "id": "6316291648389120",
+        "timestamp": 1525681304396000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:C791B190, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "HWV31",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:C791B190, RELEASE:7.0, SDK_INT:24",
+                "tac": "86751803"
+            },
+            "carrier": "KDDI",
+            "location": {
+                "latitude": 36.1,
+                "longitude": 139.23
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1525681304352000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37439.008,
+            38006.66533466533,
+            38141.12287712288,
+            39188.704,
+            40180.395604395606,
+            40411.248,
+            41117.856,
+            42036.87025948104,
+            42555.81218781219,
+            42642.81037924152,
+            43058.224,
+            43850.23552894212,
+            44018.781218781216,
+            44169.99600798403,
+            49227.024
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1541700036743000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": "-1,-1,69;-1,-1,87;-1,-1,83;-1,-1,80;-1,-1,82",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+            "device_info": {
+                "model": "CPH1831",
+                "manufacturer": "OPPO",
+                "os": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+                "tac": "86880403"
+            },
+            "carrier": "MY MAXIS",
+            "location": {
+                "latitude": 5.35,
+                "longitude": 100.45
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1541700036708000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35718.144,
+            36819.14257228315,
+            38365.46131243878,
+            40127.296703296706,
+            40656.17582417582,
+            41181.184,
+            41514.048,
+            41963.456,
+            43125.57842157842,
+            43386.05988023952,
+            43467.776,
+            44116.97102897103,
+            44301.312,
+            44920.832,
+            46131.136
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1542788953033000,
+        "device_properties": {
+            "battery_level": 75,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-J600GF",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J600GFDDU1ARI5, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35861809"
+            },
+            "carrier": "VODAFONEIN | Vodafone IN",
+            "location": {
+                "latitude": 28.66,
+                "longitude": 77.29
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 6,
+            "app_version": "1.1.3",
+            "timestamp": 1542788953015000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            34134.912,
+            37299.36,
+            37961.952,
+            39664.128,
+            40569.56286266925,
+            40840.8,
+            42565.824,
+            42637.42657342657,
+            43925.312,
+            44162.522954091815,
+            44382.24,
+            45342.20979020979,
+            45616.032,
+            46444.256,
+            49820.064
+        ]
+    },
+    {
+        "id": "5094432508477440",
+        "timestamp": 1537500351927000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": "-1,-1,53;-1,-1,71",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "SM-G965U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G965USQS3ARG8, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35332209"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.68,
+                "longitude": -73.89
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0.1",
+            "timestamp": 1537500351912000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32128.768,
+            32402.797202797203,
+            35914.48551448552,
+            36245.968253968254,
+            37084.38761238761,
+            37565.09378084896,
+            37777.93020937189,
+            40231.85628742515,
+            40733.832669322706,
+            41840.71641791045,
+            42410.53892215569,
+            46070.0998003992,
+            49660.608,
+            56845.91026919242,
+            58994.08973080758
+        ]
+    },
+    {
+        "id": "5757334940811264",
+        "timestamp": 1544144506804000,
+        "device_properties": {
+            "battery_level": 71,
+            "cell_info": "-1,-1,18;-1,-1,1",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:185, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Moto E (4)",
+                "manufacturer": "motorola",
+                "os": "INCREMENTAL:185, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35650908"
+            },
+            "carrier": "TELCEL GSM",
+            "location": {
+                "latitude": 27.63,
+                "longitude": -105.19
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 11,
+            "app_version": "1.1.3",
+            "timestamp": 1544144506769000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39316.096,
+            40161.728,
+            40318.33766233766,
+            40474.496,
+            40820.8,
+            41180.928,
+            41227.456,
+            41389.632,
+            41517.056,
+            42107.84,
+            42223.68,
+            43324.16,
+            43593.33466533467,
+            43996.032,
+            45779.968
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1532274565627000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:T807AUCU1BOG2, RELEASE:5.0.2, SDK_INT:21",
+            "device_info": {
+                "model": "SAMSUNG-SM-T807A",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T807AUCU1BOG2, RELEASE:5.0.2, SDK_INT:21",
+                "tac": "35595506"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 28.34,
+                "longitude": -82.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 0,
+            "app_version": "1.2",
+            "timestamp": 1532274565601000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            42321.6,
+            42463.105788423156,
+            42529.94616151545,
+            42580.203796203794,
+            42621.25074925075,
+            42629.12,
+            42629.12,
+            42635.456,
+            42663.872,
+            42670.208,
+            42679.11288711289,
+            42704.96,
+            42713.83016983017,
+            42798.37125748503,
+            42849.216
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1532084051136000,
+        "device_properties": {
+            "battery_level": 63,
+            "cell_info": "-1,-1,48",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1494311484.01, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "P5526A",
+                "manufacturer": "Polaroid",
+                "os": "INCREMENTAL:1494311484.01, RELEASE:7.0, SDK_INT:24",
+                "tac": "35757508"
+            },
+            "carrier": "TELCEL",
+            "location": {
+                "latitude": 19.06,
+                "longitude": -98.23
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 26,
+            "app_version": "1.1.3",
+            "timestamp": 1532084051099000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            33396.672,
+            34161.216,
+            34369.728,
+            38227.2,
+            38574.72,
+            41038.848,
+            41192.704,
+            42837.632,
+            44495.98401598402,
+            45397.696,
+            45478.784,
+            45625.606330365976,
+            46764.608,
+            49023.488,
+            49683.776
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534618103126000,
+        "device_properties": {
+            "battery_level": 61,
+            "cell_info": "-1,-1,66;-1,-1,82;-1,-1,86;-1,-1,86;-1,-1,87",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris X Pro",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35862708"
+            },
+            "carrier": "Movistar",
+            "location": {
+                "latitude": 35.89,
+                "longitude": -5.31
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1534618103068000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32587.956043956045,
+            36271.7125748503,
+            40132.224,
+            42749.12,
+            43150.4,
+            43246.16183816184,
+            43347.328,
+            43364.16,
+            43393.664,
+            43421.41575274178,
+            43428.416,
+            43499.008,
+            43585.344,
+            43636.928,
+            43952.07992007992
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1527431845225000,
+        "device_properties": {
+            "battery_level": 62,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+            "device_info": {
+                "model": "GT-I9505",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+                "tac": "35584606"
+            },
+            "carrier": "Orange",
+            "location": {
+                "latitude": 36.7,
+                "longitude": -4.44
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1527431845170000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            30066.816,
+            36323.072,
+            36948.77922077922,
+            38705.269841269845,
+            40081.646353646356,
+            41279.04,
+            42761.792,
+            43343.98401598402,
+            43700.096,
+            44378.304,
+            44517.312,
+            46741.03496503497,
+            47378.56,
+            47395.42057942058,
+            48261.46031746032
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1526242300328000,
+        "device_properties": {
+            "battery_level": 60,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:C432B395, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "EVA-L09",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:C432B395, RELEASE:7.0, SDK_INT:24",
+                "tac": "86982702"
+            },
+            "carrier": "YouSee",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1526242300317000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32020.01986097319,
+            32506.112,
+            34001.952,
+            38481.96603396603,
+            40908.27743634767,
+            41883.17282717283,
+            42102.80239520958,
+            42855.616,
+            43060.512,
+            44074.336,
+            44522.61338661339,
+            45675.34865134865,
+            45842.784,
+            45996.2390438247,
+            51615.36
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1533229112579000,
+        "device_properties": {
+            "battery_level": 97,
+            "cell_info": "5004,691,6",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1525420436, RELEASE:7.0, SDK_INT:22",
+            "device_info": {
+                "model": "SM-G955F",
+                "manufacturer": "SM-G955F",
+                "os": "INCREMENTAL:1525420436, RELEASE:7.0, SDK_INT:22",
+                "tac": "35875808"
+            },
+            "carrier": "Digi.Mobil",
+            "location": {
+                "latitude": 41.35,
+                "longitude": -1.65
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 10,
+            "app_version": "1.1.3",
+            "timestamp": 1533229112546000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            33309.248,
+            36551.94438927507,
+            36709.696,
+            38987.50849150849,
+            40232.08791208791,
+            42406.82071713147,
+            44181.376,
+            44192.96,
+            44231.89651741293,
+            44558.4,
+            44661.568,
+            45473.536,
+            45566.208,
+            46041.152,
+            46329.67664670659
+        ]
+    },
+    {
+        "id": "5700735861784576",
+        "timestamp": 1515168608340000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": "-1,-1,-116;-1,-1,-121;-1,-1,-111;-1,-1,-121;-1,-1,-112;-1,-1,-113",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+            "device_info": {
+                "model": "Neffos Y50",
+                "manufacturer": "TP-LINK",
+                "os": "INCREMENTAL:1144, RELEASE:6.0.1, SDK_INT:23",
+                "tac": "86239903"
+            },
+            "carrier": "3 ITA",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 2,
+            "app_version": "1.1.2",
+            "timestamp": 1515168608311000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37192.64,
+            37829.18065153011,
+            38684.16,
+            38999.68253968254,
+            40492.8,
+            41276.16,
+            43073.28,
+            43237.00897308076,
+            43712.96,
+            44098.56,
+            44363.52,
+            44526.48756218905,
+            44812.8,
+            45607.68,
+            47167.87212787213
+        ]
+    },
+    {
+        "id": "5673385510043648",
+        "timestamp": 1515810459662000,
+        "device_properties": {
+            "battery_level": 71,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:00WW_2_15C, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "TA-1020",
+                "manufacturer": "HMD Global",
+                "os": "INCREMENTAL:00WW_2_15C, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35680208"
+            },
+            "carrier": "O2 - UK",
+            "location": {
+                "latitude": 53.45,
+                "longitude": -2.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 0,
+            "app_version": "1.1.3",
+            "timestamp": 1515810459606000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            37032.96,
+            41018.944,
+            41224.73306772908,
+            41477.056,
+            41922.496,
+            41945.664,
+            42003.584,
+            42101.609561752986,
+            42385.856,
+            42425.856,
+            42432.192,
+            42733.376,
+            42999.808,
+            43590.592,
+            43625.344
+        ]
+    },
+    {
+        "id": "5757334940811264",
+        "timestamp": 1544144506804000,
+        "device_properties": {
+            "battery_level": 71,
+            "cell_info": "-1,-1,18;-1,-1,1",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:185, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Moto E (4)",
+                "manufacturer": "motorola",
+                "os": "INCREMENTAL:185, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35650908"
+            },
+            "carrier": "TELCEL GSM",
+            "location": {
+                "latitude": 27.63,
+                "longitude": -105.19
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 11,
+            "app_version": "1.1.3",
+            "timestamp": 1544144506769000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39316.096,
+            40161.728,
+            40318.33766233766,
+            40474.496,
+            40820.8,
+            41180.928,
+            41227.456,
+            41389.632,
+            41517.056,
+            42107.84,
+            42223.68,
+            43324.16,
+            43593.33466533467,
+            43996.032,
+            45779.968
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1535220859161000,
+        "device_properties": {
+            "battery_level": 73,
+            "cell_info": "-1,-1,-99;-1,-1,-102",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:650321.2, RELEASE:5.1, SDK_INT:22",
+            "device_info": {
+                "model": "HTC Desire 626s",
+                "manufacturer": "HTC",
+                "os": "INCREMENTAL:650321.2, RELEASE:5.1, SDK_INT:22",
+                "tac": "35871806"
+            },
+            "carrier": "AT&T",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 7,
+            "app_version": "1.1.3",
+            "timestamp": 1535220859119000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            34854.52736318408,
+            39945.6,
+            40006.4,
+            40212.8,
+            40981.056829511464,
+            41400.0,
+            42255.344655344656,
+            42347.2,
+            42374.4,
+            43400.0,
+            44307.2,
+            45102.4,
+            45337.6,
+            46211.2,
+            47174.4
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1545586030028000,
+        "device_properties": {
+            "battery_level": 74,
+            "cell_info": "-1,-1,77;-1,-1,90;-1,-1,86;-1,-1,86",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1514, RELEASE:7.1.2, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris V Plus",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1514, RELEASE:7.1.2, SDK_INT:25",
+                "tac": "35285909"
+            },
+            "carrier": "Orange SP",
+            "location": {
+                "latitude": 42.54,
+                "longitude": -1.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1545586029992000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            39959.552,
+            40203.294117647056,
+            40469.248,
+            40566.6013986014,
+            40874.688,
+            41366.18581418582,
+            41785.555333998,
+            41990.00999000999,
+            42339.92422731804,
+            43051.392,
+            43133.63672654691,
+            44077.12,
+            44162.55489021956,
+            44345.542457542455,
+            45194.432
+        ]
+    },
+    {
+        "id": "5545946314178560",
+        "timestamp": 1542028817533000,
+        "device_properties": {
+            "battery_level": 50,
+            "cell_info": null,
+            "ssid": "\"MyCharterWiFiee-2G\"",
+            "bssid": "c0:ff:d4:83:e2:ee",
+            "host_apps": [
+                "New Mobiperf"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": "",
+            "network_type": "Wifi",
+            "cell_rssi": "CDMA:-120|EVDO:-120|GSM:85|LTE:2147483647|",
+            "os_version": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-T380",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "3eb29984"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 38.81,
+                "longitude": -90.68
+            },
+            "country_code": "",
+            "wifi_ip_address": "192.168.1.2",
+            "request_app": "New Mobiperf",
+            "rssi": -35,
+            "app_version": "3.4.5",
+            "timestamp": 1542028817515000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            30952.448,
+            35271.096903096906,
+            36287.424,
+            37207.808,
+            39582.528,
+            40606.784,
+            40703.808,
+            41009.024,
+            43396.8,
+            44398.183613030604,
+            46011.776,
+            46531.55908639523,
+            49411.008,
+            49750.208,
+            50681.024
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1527431845225000,
+        "device_properties": {
+            "battery_level": 62,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+            "device_info": {
+                "model": "GT-I9505",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:I9505XXUHPK2, RELEASE:5.0.1, SDK_INT:21",
+                "tac": "35584606"
+            },
+            "carrier": "Orange",
+            "location": {
+                "latitude": 36.7,
+                "longitude": -4.44
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1527431845170000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            30066.816,
+            36323.072,
+            36948.77922077922,
+            38705.269841269845,
+            40081.646353646356,
+            41279.04,
+            42761.792,
+            43343.98401598402,
+            43700.096,
+            44378.304,
+            44517.312,
+            46741.03496503497,
+            47378.56,
+            47395.42057942058,
+            48261.46031746032
+        ]
+    },
+    {
+        "id": "5545946314178560",
+        "timestamp": 1542028817533000,
+        "device_properties": {
+            "battery_level": 50,
+            "cell_info": null,
+            "ssid": "\"MyCharterWiFiee-2G\"",
+            "bssid": "c0:ff:d4:83:e2:ee",
+            "host_apps": [
+                "New Mobiperf"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": "",
+            "network_type": "Wifi",
+            "cell_rssi": "CDMA:-120|EVDO:-120|GSM:85|LTE:2147483647|",
+            "os_version": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-T380",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T380DXU1ARB3, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "3eb29984"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 38.81,
+                "longitude": -90.68
+            },
+            "country_code": "",
+            "wifi_ip_address": "192.168.1.2",
+            "request_app": "New Mobiperf",
+            "rssi": -35,
+            "app_version": "3.4.5",
+            "timestamp": 1542028817515000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            30952.448,
+            35271.096903096906,
+            36287.424,
+            37207.808,
+            39582.528,
+            40606.784,
+            40703.808,
+            41009.024,
+            43396.8,
+            44398.183613030604,
+            46011.776,
+            46531.55908639523,
+            49411.008,
+            49750.208,
+            50681.024
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1532274565627000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:T807AUCU1BOG2, RELEASE:5.0.2, SDK_INT:21",
+            "device_info": {
+                "model": "SAMSUNG-SM-T807A",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:T807AUCU1BOG2, RELEASE:5.0.2, SDK_INT:21",
+                "tac": "35595506"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 28.34,
+                "longitude": -82.66
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 0,
+            "app_version": "1.2",
+            "timestamp": 1532274565601000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            42321.6,
+            42463.105788423156,
+            42529.94616151545,
+            42580.203796203794,
+            42621.25074925075,
+            42629.12,
+            42629.12,
+            42635.456,
+            42663.872,
+            42670.208,
+            42679.11288711289,
+            42704.96,
+            42713.83016983017,
+            42798.37125748503,
+            42849.216
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1520614808699000,
+        "device_properties": {
+            "battery_level": 63,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:00WW_5_22C, RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "TA-1033",
+                "manufacturer": "HMD Global",
+                "os": "INCREMENTAL:00WW_5_22C, RELEASE:8.0.0, SDK_INT:26",
+                "tac": "35602208"
+            },
+            "carrier": "O2 - UK",
+            "location": {
+                "latitude": 52.25,
+                "longitude": 0.41
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 3,
+            "app_version": "1.1.3",
+            "timestamp": 1520614808601000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35918.33110047847,
+            38470.464,
+            39157.888,
+            40118.153846153844,
+            41221.74277168494,
+            41533.696,
+            41913.92,
+            42244.45771144279,
+            42506.944,
+            43503.296,
+            44031.872,
+            44302.144,
+            45253.44,
+            45345.024,
+            45496.704
+        ]
+    },
+    {
+        "id": "5136764243017728",
+        "timestamp": 1539177626015000,
+        "device_properties": {
+            "battery_level": 95,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:143(C636), RELEASE:8.0.0, SDK_INT:26",
+            "device_info": {
+                "model": "BLA-L29",
+                "manufacturer": "HUAWEI",
+                "os": "INCREMENTAL:143(C636), RELEASE:8.0.0, SDK_INT:26",
+                "tac": "86838903"
+            },
+            "carrier": "MY MAXIS",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 0,
+            "app_version": "1.0.1",
+            "timestamp": 1539177625999000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            25216.252714708786,
+            31892.48,
+            34237.89850746268,
+            39858.836653386454,
+            40588.26347305389,
+            41910.73432835821,
+            42530.26069651741,
+            43091.328,
+            43985.82035928144,
+            45425.87586206896,
+            46385.068793619146,
+            47236.26666666667,
+            47443.872,
+            48072.192,
+            51077.018981018984
+        ]
+    },
+    {
+        "id": "5724160613416960",
+        "timestamp": 1518538588458000,
+        "device_properties": {
+            "battery_level": 13,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:G531FXXU1AQK2, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-G531F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:G531FXXU1AQK2, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35692507"
+            },
+            "carrier": "vodafone IT",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 4,
+            "app_version": "1.1.3",
+            "timestamp": 1518538588454000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            34859.52,
+            39836.16,
+            40095.58441558442,
+            41251.11111111111,
+            42635.52,
+            42647.04,
+            43262.53968253968,
+            43338.24,
+            43566.08,
+            43755.52,
+            43781.44,
+            43862.72,
+            43931.84,
+            44144.64,
+            44553.92
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519019578972000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": "-1,-1,86;-1,-1,98;-1,-1,84;-1,-1,84;-1,-1,89;-1,-1,181;-1,-1,176;-1,-1,141;-1,-1,142;-1,-1,121;-1,-1,142;-1,-1,155;-1,-1,146;-1,-1,169;-1,-1,173;-1,-1,175;-1,-1,167;-1,-1,149;-1,-1,172;-1,-1,164;-1,-1,104;-1,-1,112",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQU3BRA9, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850508"
+            },
+            "carrier": "T-Mobile",
+            "location": {
+                "latitude": 40.73,
+                "longitude": -73.12
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1519019578946000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            27528.2,
+            27793.2,
+            30568.0,
+            34460.21717670286,
+            37905.6,
+            37960.63936063936,
+            38774.8,
+            41544.655344655344,
+            42326.46184340931,
+            43205.6,
+            49247.6,
+            49821.05263157895,
+            54643.0,
+            55761.43856143856,
+            55985.62874251497
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1519487039349000,
+        "device_properties": {
+            "battery_level": 68,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+            "device_info": {
+                "model": "SM-A520F",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:A520FXXU4BRA8, RELEASE:7.0, SDK_INT:24",
+                "tac": "35362709"
+            },
+            "carrier": "mt:s",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 10,
+            "app_version": "1.0.1",
+            "timestamp": 1519487039318000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            31692.736,
+            37861.76,
+            40001.72283150548,
+            40150.930139720556,
+            40642.613545816734,
+            40682.32567432567,
+            42276.352,
+            42360.66932270916,
+            43035.9121756487,
+            43524.27517447657,
+            43940.507492507495,
+            44073.046953046956,
+            44366.72,
+            44904.832,
+            45119.298804780876
+        ]
+    },
+    {
+        "id": "5203516087861248",
+        "timestamp": 1520610340489000,
+        "device_properties": {
+            "battery_level": 67,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850308"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 42.77,
+                "longitude": -73.93
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1520610340484000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            23556.21978021978,
+            32011.203718048026,
+            32698.26294820717,
+            35023.40859140859,
+            37173.16036036036,
+            37250.28571428572,
+            39901.73026973027,
+            39982.754491017964,
+            40937.856,
+            47136.47384007897,
+            47672.07192807193,
+            48751.808,
+            54443.64506480558,
+            54549.46107784431,
+            55318.80239520958
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1514868419280000,
+        "device_properties": {
+            "battery_level": 42,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:4448085, RELEASE:8.1.0, SDK_INT:27",
+            "device_info": {
+                "model": "Pixel XL",
+                "manufacturer": "Google",
+                "os": "INCREMENTAL:4448085, RELEASE:8.1.0, SDK_INT:27",
+                "tac": "35253008"
+            },
+            "carrier": "Verizon Wireless",
+            "location": {
+                "latitude": 29.63,
+                "longitude": -82.61
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1514868419263000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            4043.844776119403,
+            21128.65469061876,
+            40851.20638085743,
+            41517.856,
+            42799.232,
+            42803.30158730159,
+            44131.712,
+            44260.6993006993,
+            44538.144,
+            44715.808,
+            44793.15884115884,
+            44937.888,
+            45131.9121756487,
+            45658.405594405594,
+            72923.38461538461
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534618103126000,
+        "device_properties": {
+            "battery_level": 61,
+            "cell_info": "-1,-1,66;-1,-1,82;-1,-1,86;-1,-1,86;-1,-1,87",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "Aquaris X Pro",
+                "manufacturer": "bq",
+                "os": "INCREMENTAL:1437, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35862708"
+            },
+            "carrier": "Movistar",
+            "location": {
+                "latitude": 35.89,
+                "longitude": -5.31
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1534618103068000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            32587.956043956045,
+            36271.7125748503,
+            40132.224,
+            42749.12,
+            43150.4,
+            43246.16183816184,
+            43347.328,
+            43364.16,
+            43393.664,
+            43421.41575274178,
+            43428.416,
+            43499.008,
+            43585.344,
+            43636.928,
+            43952.07992007992
+        ]
+    },
+    {
+        "id": "5697982787747840",
+        "timestamp": 1520610496393000,
+        "device_properties": {
+            "battery_level": 66,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+            "device_info": {
+                "model": "SM-N950U",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:N950USQS3BRB4, RELEASE:7.1.1, SDK_INT:25",
+                "tac": "35850308"
+            },
+            "carrier": "Sprint",
+            "location": {
+                "latitude": 42.77,
+                "longitude": -73.93
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1520610496388000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            20068.353525322742,
+            20461.83266932271,
+            22197.086705202313,
+            33548.617305976804,
+            33738.869130869134,
+            37552.52747252747,
+            38874.337972167,
+            40225.984,
+            40960.93385214008,
+            47157.642357642355,
+            56395.48554336989,
+            57551.88877855015,
+            66648.4630738523,
+            68119.168
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1544264101777000,
+        "device_properties": {
+            "battery_level": 77,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-J200GU",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35897607"
+            },
+            "carrier": "AIS",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 14,
+            "app_version": "1.0",
+            "timestamp": 1544264101754000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35660.8,
+            37462.4,
+            37676.8,
+            39238.4,
+            39884.8,
+            40419.38674579624,
+            42392.0,
+            43433.6,
+            43780.8,
+            43870.4,
+            43926.4,
+            43926.4,
+            43995.209580838324,
+            44161.6,
+            44165.40755467197
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1534253700870000,
+        "device_properties": {
+            "battery_level": 100,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:4898911, RELEASE:9, SDK_INT:28",
+            "device_info": {
+                "model": "Pixel 2",
+                "manufacturer": "Google",
+                "os": "INCREMENTAL:4898911, RELEASE:9, SDK_INT:28",
+                "tac": "35753708"
+            },
+            "carrier": "",
+            "location": {
+                "latitude": 17.45,
+                "longitude": 78.36
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 99,
+            "app_version": "1.0",
+            "timestamp": 1534253700815000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            19543.546875,
+            20066.385685884692,
+            23894.848,
+            26556.251246261218,
+            33734.976,
+            34031.37662337662,
+            35609.35064935065,
+            38772.38811881188,
+            39093.81094527363,
+            41339.772681954135,
+            48973.330669330666,
+            53320.798403193614,
+            62338.64,
+            71217.32534930139,
+            77212.032
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1544264101777000,
+        "device_properties": {
+            "battery_level": 77,
+            "cell_info": null,
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "My Speed Test"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+            "device_info": {
+                "model": "SM-J200GU",
+                "manufacturer": "samsung",
+                "os": "INCREMENTAL:J200GUDXU3AQL1, RELEASE:5.1.1, SDK_INT:22",
+                "tac": "35897607"
+            },
+            "carrier": "AIS",
+            "location": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "My Speed Test",
+            "rssi": 14,
+            "app_version": "1.0",
+            "timestamp": 1544264101754000,
+            "location_type": "unknown",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35660.8,
+            37462.4,
+            37676.8,
+            39238.4,
+            39884.8,
+            40419.38674579624,
+            42392.0,
+            43433.6,
+            43780.8,
+            43870.4,
+            43926.4,
+            43926.4,
+            43995.209580838324,
+            44161.6,
+            44165.40755467197
+        ]
+    },
+    {
+        "id": "5707702298738688",
+        "timestamp": 1541700036743000,
+        "device_properties": {
+            "battery_level": 81,
+            "cell_info": "-1,-1,69;-1,-1,87;-1,-1,83;-1,-1,80;-1,-1,82",
+            "ssid": null,
+            "bssid": null,
+            "host_apps": [
+                "Easy Speed Test : Fast and Quick"
+            ],
+            "mobilyzer_version": "1.0",
+            "registration_id": null,
+            "network_type": "WIFI",
+            "cell_rssi": null,
+            "os_version": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+            "device_info": {
+                "model": "CPH1831",
+                "manufacturer": "OPPO",
+                "os": "INCREMENTAL:1531421350, RELEASE:8.1.0, SDK_INT:27",
+                "tac": "86880403"
+            },
+            "carrier": "MY MAXIS",
+            "location": {
+                "latitude": 5.35,
+                "longitude": 100.45
+            },
+            "country_code": null,
+            "wifi_ip_address": null,
+            "request_app": "Easy Speed Test : Fast and Quick",
+            "rssi": 99,
+            "app_version": "1.1.3",
+            "timestamp": 1541700036708000,
+            "location_type": "network",
+            "is_battery_charging": false
+        },
+        "tcp_speed_results": [
+            35718.144,
+            36819.14257228315,
+            38365.46131243878,
+            40127.296703296706,
+            40656.17582417582,
+            41181.184,
+            41514.048,
+            41963.456,
+            43125.57842157842,
+            43386.05988023952,
+            43467.776,
+            44116.97102897103,
+            44301.312,
+            44920.832,
+            46131.136
+        ]
+    }
+]
