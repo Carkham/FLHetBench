@@ -18,12 +18,14 @@
 We use different datasets for device heterogeneity and state heterogeneity.
 
 - dataset for device heterogeneity.
-  - `data/mobiperf_tcp_down_2018.json`
-  - `data/mobiperf_tcp_down_2019.json`
+  - MobiPerf network performance data
+    - `data/mobiperf_tcp_down_2018.json`
+    - `data/mobiperf_tcp_down_2019.json`
+  - Our proposed training latency data. **Our data will be dynamically updated, and we sincerely invite more people to participate. If you're interested, click on the [link](https://docs.google.com/document/d/1KwNdgW57gNs8VskZwdUGhLg6b_XaplPWdaTRcmbQeWk/edit?usp=sharing) to learn more**
+    - `data/device_latency.json`
 - dataset for state heterogeneity.
   - `data/cached_timers.json`
-- Our proposed training latency data. **Our data will be dynamically updated, and we sincerely invite more people to participate. If you're interested, click on the [link](https://docs.google.com/document/d/1KwNdgW57gNs8VskZwdUGhLg6b_XaplPWdaTRcmbQeWk/edit?usp=sharing) to learn more**
-  - `data/device_latency.json`
+
 
 #### 1.2 Sampling
 
