@@ -4,7 +4,7 @@ from typing import Dict, List, Tuple
 from collections import defaultdict
 import json
 
-with open("./data/cached_timers.json", "r") as f:
+with open("data/cached_timers.json", "r") as f:
     traces_old = json.load(f)
 traces = {}
 for key, value in traces_old.items():
