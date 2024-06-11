@@ -110,7 +110,6 @@ class MomentumHelper:
         self.velocity = OrderedDict()
         self.grad_history = OrderedDict()
         self.grad_history['grad_len'] = OrderedDict()
-        self.pcgrad_momentum = cfg.pcgrad_m
         self.device = torch.device(cfg.gpu_id)
         for k, p in model.named_parameters():
             if p.requires_grad:

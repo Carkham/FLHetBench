@@ -40,11 +40,6 @@ def main():
     cfg = Config(config_name, args)
 
     assert cfg.model in ["vit", "resnet"]
-
-    ## update configure file
-    _update_config(cfg, args)
-    # cfg.round_ddl[0] = args.deadline
-
     cfg.num_classes = NUM_CLASSES[cfg.dataset_name]
 
     # Set the random seed if provided (affects client sampling, and batching)
@@ -242,24 +237,6 @@ def main():
     server.my_eval(valids, create_model(cfg))
     server.my_eval(tests, create_model(cfg), load_best=True, is_test=True)
     # server.close_model()
-
-
-def _update_config(cfg, args):
-    """update configure file cfg with configure file args.
-    """
-    ## update all the configure files with manual input
-
-    for k, v_ in vars(args).items():
-        if k == 'config':
-            continue
-        if k == 'time_window':
-            cfg.__setattr__(k, [v_, 0.0])
-            continue
-        if k == 'fedavgm' and args.biasprompt and not args.pcgrad:
-            cfg.__setattr__(k, True)
-            continue
-        print('Updating configure file', k, v_)
-        cfg.__setattr__(k, v_)
 
 
 def online(clients, cur_time, time_window):

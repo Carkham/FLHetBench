@@ -20,6 +20,21 @@ def load_prompt_config(path=None):
         return None
 
 
+def _update_config(cfg, args):
+    """update configure file cfg with configure file args.
+    """
+    ## update all the configure files with manual input
+
+    for k, v_ in vars(args).items():
+        if k == 'config':
+            continue
+        if k == 'time_window':
+            cfg.__setattr__(k, [v_, 0.0])
+            continue
+        print('Updating configure file', k, v_)
+        cfg.__setattr__(k, v_)
+
+
 class Config:
 
     def __init__(self, config_file='default.cfg', args=None):
@@ -37,6 +52,8 @@ class Config:
         self.sys_n_client = None
         self.min_selected = 1
         self.max_sample = 100  # max sample num for training in a round
+        self.target_acc = 0
+        self.drop_rate = 0
 
         # client
         self.client_lr = 0.1
@@ -118,7 +135,7 @@ class Config:
             assert False
         with open(filename, 'r') as f:
             for line in f:
-                if line.startswith('#'):
+                if line.startswith('#') or len(line.strip().split()) == 0:
                     continue
                 try:
                     line = line.strip().split()
@@ -244,6 +261,7 @@ class Config:
 
                 except Exception as e:
                     traceback.print_exc()
+        _update_config(self, args)
         if self.real_world and 'realworld' not in self.dataset:
             logger.error(
                 '\'real_world\' is valid only when dataset is set to \'realworld\', current dataset {}'
@@ -252,26 +270,9 @@ class Config:
         if self.user_trace == True:
             self.device_hete = True
             self.state_hete = True
-        self.state_path = args.state_path
-        self.device_path = args.device_path
-        # print("Manual input args: ")
-        # print("Deadline: " + str(args.deadline))
-        # print("Rounds " + str(args.rounds))
-        # print("Seed " + str(args.seed))
-        # print("GPU " + args.gpu)
-        # print("Val set " + str(args.val))
-        # print("dataset_name " + str(args.dataset_name))
-        # print("data_aug_phase " + str(args.data_aug_phase))
-        # print("naive_meta_learning " + str(args.naive_meta_learning))
+
         self.gpu_id = args.gpu
-        self.seed = args.seed
-
-        self.aggregation_strategy = args.aggregation_strategy
-        self.num_rounds = args.num_rounds
         self.round_ddl[0] = args.deadline
-
-        self.target_acc = args.target_acc
-        self.drop_rate = args.drop_rate
         if (self.target_acc or self.drop_rate) and self.aggregation_strategy != "readiness":
             raise ValueError("--target_acc/--drop_rate must be set with readiness-based strategy")
         if self.aggregation_strategy == "readiness":

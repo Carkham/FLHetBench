@@ -156,7 +156,7 @@ def parse_args():
 
     # Client parameters
     parser.add_argument('--client-lr', type=float, default=0.001, help='Learning rate in clients')
-    parser.add_argument('--client-bs', type=int, default=1, help='Batch size in clients')
+    parser.add_argument('--client-bs', type=int, default=16, help='Batch size in clients')
     parser.add_argument('--client-n_epoch', type=int, default=1, help='Number of local training epochs in clients')
 
     # fedprox

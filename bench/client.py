@@ -37,7 +37,7 @@ class Client:
     pred_d = None
     idx = 0
     try:
-        with open('../data/cfg.virtual_momentum > 0.json', 'r', encoding='utf-8') as f:
+        with open('data/state_traces.json', 'r', encoding='utf-8') as f:
             d = json.load(f)
 
     except FileNotFoundError as e:
@@ -45,8 +45,7 @@ class Client:
         d = None
         logger.warn('no user behavior trace was found, running in no-trace mode')
 
-    def __init__(self, client_id, group=None, train_data=None, model=None, device=None, cfg=None,
-                 valids=None, is_pretrain_client=False):
+    def __init__(self, client_id, group=None, train_data=None, model=None, device=None, cfg=None):
         self.model: MimicModel = model
         self.id = client_id  # integer
         self.group = group
@@ -58,7 +57,8 @@ class Client:
             self.dataloader = DataLoader(train_data, batch_size=cfg.client_bs)
         else:
             assert len(train_data[0]) == len(train_data[1])
-            self.dataloader = DataLoader(dataset=ImageDataset(train_data[0], train_data[1]), batch_size=cfg.client_bs,
+            batch_size = min(len(train_data[0]), cfg.client_bs)
+            self.dataloader = DataLoader(dataset=ImageDataset(train_data[0], train_data[1]), batch_size=batch_size,
                                          shuffle=True)
 
         self.device = device  # if device is none, it will use real time as train time, and set upload/download time as 0
@@ -224,46 +224,13 @@ class Client:
                 comp = self.model.get_comp(data, num_epochs, batch_size)
                 self.actual_comp = int(comp * available_time / train_time)  # will be used in get_actual_comp
                 self.update_size = 0
-                if self.cfg.fedprox:
-                    ne = -1
-                    for i in range(1, num_epochs):
-                        et = self.timer.get_future_time(down_end_time, train_time * ne / num_epochs + upload_time)
-                        if et - start_t <= self.deadline:
-                            ne = i
-                    if self.cfg.no_training:
-                        comp = self.model.get_comp(data, num_epochs, batch_size)
-                        update, acc, loss, grad, loss_old = -1, -1, -1, -1, -1
-                    elif self.cfg.fedprox and ne != -1:
-                        comp, update, acc, loss, grad, loss_old = self.model.train(data, ne, batch_size)
-                        train_time *= ne / num_epochs
-                    else:
-                        failed_reason = f'failed when training\t{self.ori_total_cost}'
-                        self.cost_time = train_end_time
-                        raise timeout_decorator.timeout_decorator.TimeoutError(failed_reason)
-                else:
-                    self.cost_time = train_end_time
-                    failed_reason = f'failed when training\t{self.ori_total_cost}'
-                    raise timeout_decorator.timeout_decorator.TimeoutError(failed_reason)
+                self.cost_time = train_end_time
+                failed_reason = f'failed when training\t{self.ori_total_cost}'
+                raise timeout_decorator.timeout_decorator.TimeoutError(failed_reason)
             elif (up_end_time - start_t) > self.deadline:
                 self.actual_comp = self.model.get_comp(data, num_epochs, batch_size)
-                if self.cfg.fedprox:
-                    ne = -1
-                    for i in range(1, num_epochs):
-                        et = self.timer.get_future_time(down_end_time, train_time * ne / num_epochs + upload_time)
-                        if et - start_t <= self.deadline:
-                            ne = i
-                    if self.cfg.no_training:
-                        comp = self.model.get_comp(data, num_epochs, batch_size)
-                        update, acc, loss, grad, loss_old = -1, -1, -1, -1, -1
-                    elif self.cfg.fedprox and ne != -1:
-                        comp, update, acc, loss, grad, loss_old = self.model.train(data, ne, batch_size)
-                        train_time *= ne / num_epochs
-                    else:
-                        failed_reason = f'failed when uploading\t{self.ori_total_cost}'
-                        self.cost_time = up_end_time
-                        raise timeout_decorator.timeout_decorator.TimeoutError(failed_reason)
-                elif self.cfg.fedkd:
-                    self.model.train(data)
+                if self.cfg.fedkd:
+                    self.model.train(data, num_epochs)
                     # print(torch.cuda.memory_allocated())
                     self.lasttime = updatetimer
                     comp, update, acc, loss, grad, loss_old = -1, self.model.get_weights(), -1, self.model.trainloss, -1, -1
@@ -277,7 +244,7 @@ class Client:
                         comp = self.model.get_comp(data, num_epochs, batch_size)
                         update, acc, loss, grad, loss_old = -1, -1, -1, -1, -1
                     else:
-                        self.model.train(data, num_epochs, batch_size)
+                        self.model.train(data, num_epochs)
                         # print(torch.cuda.memory_allocated())
                         self.lasttime = updatetimer
                         comp, update, acc, loss, grad, loss_old = -1, self.model.get_weights(), -1, self.model.trainloss, -1, -1
@@ -361,8 +328,7 @@ class Client:
         """
         data = self.dataloader
         self.update_size = self.model.size
-        self.model.train(data, self.id, self.lasttime, self.joined_rounds, val_loader=self.val,
-                         fixed_loader=fixed_loader)
+        self.model.train(data, num_epochs)
         # print(torch.cuda.memory_allocated())
         self.lasttime = updatetimer
         comp, update, acc, loss, grad, loss_old = -1, self.model.get_weights(), -1, self.model.trainloss, -1, -1
@@ -378,11 +344,6 @@ class Client:
                 self.model.get_student_state(distill_helper.device))
             update, grad = None, None
         return None, comp, None, update, acc, loss, grad, self.update_size, None, None, loss_old
-
-    def pretrain(self, fixed_loader):
-        self.model.train(self.dataloader, self.id, self.lasttime, self.joined_rounds, val_loader=self.val,
-                         fixed_loader=fixed_loader, is_pretrain=True)
-        return self.model.trainloss
 
     def test(self, set_to_use='test'):
         """Tests self.model on self.test_data.
