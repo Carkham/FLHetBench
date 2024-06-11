@@ -11,6 +11,12 @@
 
 ## Usage
 
+### 0. Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ### 1. Heterogeneity simulation
 
 #### 1.1 Prepare Heterogeneity Dataset
