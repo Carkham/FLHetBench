@@ -145,5 +145,4885 @@
         "Vit STD": 5.42,
         "ResNet Latency": 92.1,
         "ResNet STD": 3.65
+    },
+    {
+        "Phone Model": "Oppo Find X7",
+        "ResNet Latency": 47.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X100 Pro",
+        "ResNet Latency": 47.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X100",
+        "ResNet Latency": 48.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X7 Ultra",
+        "ResNet Latency": 45.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 14 Pro",
+        "ResNet Latency": 52.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 14",
+        "ResNet Latency": 54.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO 12",
+        "ResNet Latency": 54.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K70 Pro",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo 6",
+        "ResNet Latency": 50.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S23 Ultra",
+        "ResNet Latency": 58.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S23+",
+        "ResNet Latency": 56.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S23",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S9",
+        "ResNet Latency": 56.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K70",
+        "ResNet Latency": 58.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 13 Pro",
+        "ResNet Latency": 58.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 13 Ultra",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Z50",
+        "ResNet Latency": 69.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Z Fold5",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Z50S Pro",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Red Magic 8 Pro",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X90 Pro+",
+        "ResNet Latency": 79.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Z Flip5",
+        "ResNet Latency": 63.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 1 V",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus ROG Phone 7",
+        "ResNet Latency": 55.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 10",
+        "ResNet Latency": 63.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K60 Pro",
+        "ResNet Latency": 52.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 40 Pro",
+        "ResNet Latency": 67.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO 11 Pro",
+        "ResNet Latency": 63.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 5 V",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 13",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Aquos R8 Pro",
+        "ResNet Latency": 69.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 11",
+        "ResNet Latency": 72.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto X40",
+        "ResNet Latency": 68.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Z50 Ultra",
+        "ResNet Latency": 83.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X6 Pro",
+        "ResNet Latency": 72.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge+",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor Magic5 Pro",
+        "ResNet Latency": 93.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K70E",
+        "ResNet Latency": 52.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Z40S Pro",
+        "ResNet Latency": 58.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT3",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus ROG Phone 6",
+        "ResNet Latency": 59.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 9",
+        "ResNet Latency": 61.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo 5",
+        "ResNet Latency": 56.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12S Ultra",
+        "ResNet Latency": 60.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Red Magic 7S Pro",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12S",
+        "ResNet Latency": 62.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Legion Y70",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K60",
+        "ResNet Latency": 65.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12T Pro",
+        "ResNet Latency": 62.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K50 Ultra",
+        "ResNet Latency": 62.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco F5 Pro",
+        "ResNet Latency": 64.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Razr 2022",
+        "ResNet Latency": 79.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nothing Phone (2)",
+        "ResNet Latency": 68.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 30 Ultra",
+        "ResNet Latency": 74.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 10T",
+        "ResNet Latency": 55.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Z Fold4",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate X3",
+        "ResNet Latency": 65.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola ThinkPhone",
+        "ResNet Latency": 70.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X6",
+        "ResNet Latency": 49.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S8 Ultra",
+        "ResNet Latency": 69.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Razr 40 Ultra",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S8",
+        "ResNet Latency": 70.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor Magic Vs",
+        "ResNet Latency": 87.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 50 Pro",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge+",
+        "ResNet Latency": 60.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S8+",
+        "ResNet Latency": 67.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Ace Pro",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Leica Leitz Phone 2",
+        "ResNet Latency": 72.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K50 Gaming",
+        "ResNet Latency": 69.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find N2",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X90 Pro",
+        "ResNet Latency": 50.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 13T Pro",
+        "ResNet Latency": 46.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S22 Ultra",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K60 Ultra",
+        "ResNet Latency": 49.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 30 Pro",
+        "ResNet Latency": 65.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT2 Pro",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO Neo8 Pro",
+        "ResNet Latency": 46.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12 Pro",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 10 Pro",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO 9",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO 9 Pro",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco F4 GT",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S22",
+        "ResNet Latency": 72.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno9 Pro+",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X5 Pro",
+        "ResNet Latency": 69.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor Magic4 Pro",
+        "ResNet Latency": 67.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12",
+        "ResNet Latency": 67.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S22+",
+        "ResNet Latency": 70.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X80 Pro",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Red Magic 7",
+        "ResNet Latency": 83.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 1 IV",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 11R",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 5 IV",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Aquos R7",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X90",
+        "ResNet Latency": 50.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge X30",
+        "ResNet Latency": 58.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo5 SE",
+        "ResNet Latency": 54.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 12 Turbo",
+        "ResNet Latency": 64.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco F5",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Apple iPhone 15 Pro",
+        "ResNet Latency": 40.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12 Pro",
+        "ResNet Latency": 55.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find N2 Flip",
+        "ResNet Latency": 49.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X80 Pro",
+        "ResNet Latency": 57.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K50 Pro",
+        "ResNet Latency": 56.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X5 Pro",
+        "ResNet Latency": 62.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Ace 2V",
+        "ResNet Latency": 51.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus ROG 6D Ultimate",
+        "ResNet Latency": 48.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus ROG Phone 5s",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 12T Pro",
+        "ResNet Latency": 59.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K60E",
+        "ResNet Latency": 61.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 8",
+        "ResNet Latency": 79.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor Magic3",
+        "ResNet Latency": 129.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO Neo7 SE",
+        "ResNet Latency": 60.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Red Magic 6 Pro",
+        "ResNet Latency": 76.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MatePad Pro 11",
+        "ResNet Latency": 76.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21 Ultra",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 11 Pro",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Z Fold3",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 1 III",
+        "ResNet Latency": 89.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21+",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21 FE",
+        "ResNet Latency": 75.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 30 Fusion",
+        "ResNet Latency": 91.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Z Flip3",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 9 Pro",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 9",
+        "ResNet Latency": 79.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 11T Pro",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Pro-I",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 11",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P50 Pro",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 8",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 11 Ultra",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P50",
+        "ResNet Latency": 101.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT2",
+        "ResNet Latency": 75.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 9RT",
+        "ResNet Latency": 79.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X4 GT",
+        "ResNet Latency": 60.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT 5G",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X3 Pro",
+        "ResNet Latency": 78.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11T Pro",
+        "ResNet Latency": 61.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12T",
+        "ResNet Latency": 60.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K50",
+        "ResNet Latency": 61.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 7",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X60 Pro+",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 7 Pro",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K50i",
+        "ResNet Latency": 61.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 10R",
+        "ResNet Latency": 63.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo 3",
+        "ResNet Latency": 63.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno8 Pro",
+        "ResNet Latency": 64.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Red Magic 6",
+        "ResNet Latency": 96.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Ace",
+        "ResNet Latency": 62.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 7a",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel Fold",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno8 Pro+",
+        "ResNet Latency": 64.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno8 Pro",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 13 Lite",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Fairphone 5",
+        "ResNet Latency": 143.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Apple iPhone 13",
+        "ResNet Latency": 53.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V27",
+        "ResNet Latency": 111.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Zebra TC58",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 30",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 6 Pro",
+        "ResNet Latency": 94.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 6",
+        "ResNet Latency": 97.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Master",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Q3s",
+        "ResNet Latency": 86.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X5 Pro",
+        "ResNet Latency": 95.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Zebra TC53",
+        "ResNet Latency": 141.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 11 Lite 5G NE",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12 Lite",
+        "ResNet Latency": 96.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nothing Phone (1)",
+        "ResNet Latency": 94.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M52",
+        "ResNet Latency": 109.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A52s",
+        "ResNet Latency": 97.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A73",
+        "ResNet Latency": 97.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 70",
+        "ResNet Latency": 91.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 6a",
+        "ResNet Latency": 100.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 11 Lite 5G",
+        "ResNet Latency": 104.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21 Ultra",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 40 Pro",
+        "ResNet Latency": 76.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21+",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21",
+        "ResNet Latency": 73.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S21 FE",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno8",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X70 Pro",
+        "ResNet Latency": 72.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord 2T",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20+ 5G",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20 Ultra 5G",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Note20 Ultra 5G",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo",
+        "ResNet Latency": 65.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note20 5G",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20 FE",
+        "ResNet Latency": 80.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord 2 5G",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno6 Pro",
+        "ResNet Latency": 65.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo2T",
+        "ResNet Latency": 67.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 40",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Q3 Pro",
+        "ResNet Latency": 66.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P40 Pro",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P40",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P40 Pro+",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X70",
+        "ResNet Latency": 142.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 20 Premier",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MatePad Pro",
+        "ResNet Latency": 82.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X3 GT",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 30 VIP",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X3 Neo",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X7 Pro",
+        "ResNet Latency": 95.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 11 Pro",
+        "ResNet Latency": 111.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 11 Pro+",
+        "ResNet Latency": 111.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X9 Pro",
+        "ResNet Latency": 83.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo 3T",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X2 Pro",
+        "ResNet Latency": 86.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme GT Neo2",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note10",
+        "ResNet Latency": 105.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Q5 Pro",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note10+",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO Z1",
+        "ResNet Latency": 105.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 11i HyperCharge",
+        "ResNet Latency": 118.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K30 Ultra",
+        "ResNet Latency": 122.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X3",
+        "ResNet Latency": 89.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 9R",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno5 Pro 5G",
+        "ResNet Latency": 170.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 11i",
+        "ResNet Latency": 117.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus ROG Phone 3",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11 Pro+",
+        "ResNet Latency": 118.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M53",
+        "ResNet Latency": 120.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 7",
+        "ResNet Latency": 86.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Zero Ultra",
+        "ResNet Latency": 119.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S10",
+        "ResNet Latency": 104.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K30 Pro",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno6 5G",
+        "ResNet Latency": 121.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 8T",
+        "ResNet Latency": 89.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno6 Pro 5G",
+        "ResNet Latency": 98.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S10+",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20",
+        "ResNet Latency": 93.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 8 Pro",
+        "ResNet Latency": 89.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S7+",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note20 Ultra 5G",
+        "ResNet Latency": 96.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S7",
+        "ResNet Latency": 98.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A34",
+        "ResNet Latency": 112.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V23 5G",
+        "ResNet Latency": 114.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20 FE 5G",
+        "ResNet Latency": 91.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10 Pro 5G",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20+",
+        "ResNet Latency": 95.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Black Shark 5",
+        "ResNet Latency": 94.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Zero",
+        "ResNet Latency": 120.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 9 Pro+",
+        "ResNet Latency": 114.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S10e",
+        "ResNet Latency": 105.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20 FE",
+        "ResNet Latency": 92.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Z Fold2 5G",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K40S",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S20 Ultra",
+        "ResNet Latency": 92.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note20 5G",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Pad 5 Pro",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oneplus 8",
+        "ResNet Latency": 104.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco F4",
+        "ResNet Latency": 95.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Black Shark 4",
+        "ResNet Latency": 93.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K40",
+        "ResNet Latency": 93.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 12X",
+        "ResNet Latency": 91.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Pad 6",
+        "ResNet Latency": 89.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG V60 ThinQ 5G",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco F3",
+        "ResNet Latency": 92.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 11X",
+        "ResNet Latency": 91.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K40 Gaming",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi 11T",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 1 II",
+        "ResNet Latency": 100.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Pad Pro 2021",
+        "ResNet Latency": 93.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 5 II",
+        "ResNet Latency": 101.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X50 Pro",
+        "ResNet Latency": 83.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X50 Pro 5G",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei nova 5T",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P30 Pro",
+        "ResNet Latency": 104.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor View 20",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Axon 30",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P30",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo X60 Pro",
+        "ResNet Latency": 111.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 20 Pro",
+        "ResNet Latency": 114.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X2 Pro",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO Neo5",
+        "ResNet Latency": 111.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Yoga Tab 13",
+        "ResNet Latency": 107.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 20 X",
+        "ResNet Latency": 109.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee V Max",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X3 SuperZoom",
+        "ResNet Latency": 81.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus ROG Phone II",
+        "ResNet Latency": 98.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 20 Pro",
+        "ResNet Latency": 108.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10 5G",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO Neo 6",
+        "ResNet Latency": 113.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V25",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 7T Pro",
+        "ResNet Latency": 100.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 7T",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 10X Pro 5G",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Meizu 17",
+        "ResNet Latency": 112.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 10",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 7 Pro",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Aquos R5G",
+        "ResNet Latency": 115.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note10+",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord 2 CE",
+        "ResNet Latency": 122.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 7",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Axon 30 5G",
+        "ResNet Latency": 100.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S10 Lite",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S6",
+        "ResNet Latency": 101.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG V50S ThinQ 5G",
+        "ResNet Latency": 98.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 6",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 20 Pro",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno4 Z 5G",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S10+",
+        "ResNet Latency": 100.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 5",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S10",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Aquos R3",
+        "ResNet Latency": 107.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Aquos Zero 2",
+        "ResNet Latency": 104.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG V50 ThinQ 5G",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 9T Pro",
+        "ResNet Latency": 99.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco F2 Pro",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G100",
+        "ResNet Latency": 89.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG G8 ThinQ",
+        "ResNet Latency": 102.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 9",
+        "ResNet Latency": 104.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K20 Pro",
+        "ResNet Latency": 107.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge+",
+        "ResNet Latency": 85.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Microsoft Surface Duo",
+        "ResNet Latency": 109.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 1",
+        "ResNet Latency": 97.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG G8S ThinQ",
+        "ResNet Latency": 95.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10 Ultra",
+        "ResNet Latency": 88.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10T Pro 5G",
+        "ResNet Latency": 93.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno3 5G",
+        "ResNet Latency": 90.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei nova 7 5G",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A92s",
+        "ResNet Latency": 101.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Armor 11T 5G",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 30",
+        "ResNet Latency": 153.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BL6000 Pro",
+        "ResNet Latency": 101.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P40 Lite 5G",
+        "ResNet Latency": 154.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S22",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P20 Pro",
+        "ResNet Latency": 203.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S22 Ultra",
+        "ResNet Latency": 71.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note9",
+        "ResNet Latency": 182.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG Velvet 5G",
+        "ResNet Latency": 96.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P20",
+        "ResNet Latency": 247.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S9",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S9+",
+        "ResNet Latency": 270.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 10 Pro",
+        "ResNet Latency": 189.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 4 XL",
+        "ResNet Latency": 112.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S8+",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X3 Pro",
+        "ResNet Latency": 100.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 4",
+        "ResNet Latency": 112.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 6T",
+        "ResNet Latency": 148.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Razer Phone 2",
+        "ResNet Latency": 177.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 6",
+        "ResNet Latency": 147.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 5z",
+        "ResNet Latency": 151.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note8",
+        "ResNet Latency": 259.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia 9 PureView",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A51 5G",
+        "ResNet Latency": 136.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Axon 9 Pro",
+        "ResNet Latency": 148.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ2",
+        "ResNet Latency": 142.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note9",
+        "ResNet Latency": 148.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S9+",
+        "ResNet Latency": 148.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Pocophone F1",
+        "ResNet Latency": 155.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG Velvet",
+        "ResNet Latency": 151.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ2 Compact",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S8",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ3",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo NEX S",
+        "ResNet Latency": 156.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S9",
+        "ResNet Latency": 149.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Pad 5",
+        "ResNet Latency": 103.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 8",
+        "ResNet Latency": 166.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ2 Premium",
+        "ResNet Latency": 155.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC Vive Focus 3",
+        "ResNet Latency": 217.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Mix 2S",
+        "ResNet Latency": 165.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P40 Lite",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 9X",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A54",
+        "ResNet Latency": 84.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor View 10",
+        "ResNet Latency": 207.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG G7 ThinQ",
+        "ResNet Latency": 142.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo iQOO Z3",
+        "ResNet Latency": 181.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 20",
+        "ResNet Latency": 109.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC U20",
+        "ResNet Latency": 180.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno5 5G",
+        "ResNet Latency": 154.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno4 Pro 5G",
+        "ResNet Latency": 158.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10 Lite 5G",
+        "ResNet Latency": 157.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno6 Z",
+        "ResNet Latency": 132.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10 Youth 5G",
+        "ResNet Latency": 167.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A94 5G",
+        "ResNet Latency": 132.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Find X2 Lite",
+        "ResNet Latency": 174.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE nubia Play",
+        "ResNet Latency": 182.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 20 Fusion",
+        "ResNet Latency": 133.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K30i 5G",
+        "ResNet Latency": 171.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG Velvet 5G",
+        "ResNet Latency": 169.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL REVVL 5G",
+        "ResNet Latency": 172.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi K30 5G",
+        "ResNet Latency": 168.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 7 5G",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A71 5G",
+        "ResNet Latency": 195.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 5",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 4a 5G",
+        "ResNet Latency": 148.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G82",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor Magic5 Lite",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme X2",
+        "ResNet Latency": 167.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 6 Pro",
+        "ResNet Latency": 145.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Razr 5G",
+        "ResNet Latency": 187.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 30 Neo",
+        "ResNet Latency": 143.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 11 Lite",
+        "ResNet Latency": 178.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 10 Pro",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Note 10 Lite",
+        "ResNet Latency": 159.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X2",
+        "ResNet Latency": 161.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X3 NFC",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V29 Lite",
+        "ResNet Latency": 158.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Tab P11 Pro",
+        "ResNet Latency": 155.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X3",
+        "ResNet Latency": 175.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G Stylus 5G",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Note 10",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno2",
+        "ResNet Latency": 174.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 9 Pro",
+        "ResNet Latency": 156.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G60",
+        "ResNet Latency": 189.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11 Pro",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 12 Pro 4G",
+        "ResNet Latency": 184.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 9S",
+        "ResNet Latency": 160.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A80",
+        "ResNet Latency": 177.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G40 Fusion",
+        "ResNet Latency": 194.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X4 Pro",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A71",
+        "ResNet Latency": 174.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11 Pro 5G",
+        "ResNet Latency": 138.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M51",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A72",
+        "ResNet Latency": 193.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A52",
+        "ResNet Latency": 186.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola One Fusion+",
+        "ResNet Latency": 178.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 50",
+        "ResNet Latency": 98.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V21 SE",
+        "ResNet Latency": 175.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 8 Pro",
+        "ResNet Latency": 148.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco M4 Pro 5G",
+        "ResNet Latency": 124.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 7 Pro",
+        "ResNet Latency": 147.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 8",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 8s 5G",
+        "ResNet Latency": 131.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno7 A",
+        "ResNet Latency": 186.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord CE 3 Lite",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G9 Plus",
+        "ResNet Latency": 175.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco M5s",
+        "ResNet Latency": 145.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno8 T",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno7 Z",
+        "ResNet Latency": 183.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco X5",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 10S",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 30 5G",
+        "ResNet Latency": 133.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Narzo 60",
+        "ResNet Latency": 132.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 19 Pro 5G",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno5 4G",
+        "ResNet Latency": 174.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno6",
+        "ResNet Latency": 172.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme V15",
+        "ResNet Latency": 123.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 9T",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno4 Pro",
+        "ResNet Latency": 175.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oukitel WP19",
+        "ResNet Latency": 151.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 30 Pro",
+        "ResNet Latency": 133.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme XT",
+        "ResNet Latency": 204.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno4",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note FE",
+        "ResNet Latency": 367.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 12 Pro",
+        "ResNet Latency": 131.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 30",
+        "ResNet Latency": 133.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 4a",
+        "ResNet Latency": 228.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor X9a",
+        "ResNet Latency": 181.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Cubot KingKong 9",
+        "ResNet Latency": 140.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 5 Pro",
+        "ResNet Latency": 201.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 3 XL",
+        "ResNet Latency": 159.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 8 5G",
+        "ResNet Latency": 138.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Pova 4",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S7 edge",
+        "ResNet Latency": 324.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Z2 Force",
+        "ResNet Latency": 225.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G73",
+        "ResNet Latency": 152.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BV9300",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola One 5G Ace",
+        "ResNet Latency": 165.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 9i 5G",
+        "ResNet Latency": 122.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor X9 5G",
+        "ResNet Latency": 175.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A78",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Wide5",
+        "ResNet Latency": 136.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A22 5G",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Zebra Technologies ET45",
+        "ResNet Latency": 180.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G Stylus 5G",
+        "ResNet Latency": 168.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A52 5G",
+        "ResNet Latency": 158.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 5T",
+        "ResNet Latency": 225.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M23",
+        "ResNet Latency": 182.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 3",
+        "ResNet Latency": 159.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Armor 21",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Mix 2",
+        "ResNet Latency": 229.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord N30",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola One Vision",
+        "ResNet Latency": 257.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia 8",
+        "ResNet Latency": 227.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola One Fusion",
+        "ResNet Latency": 230.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee S100",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 8i",
+        "ResNet Latency": 143.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno5 Z",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lava Agni 5G",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A50",
+        "ResNet Latency": 246.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A74 5G",
+        "ResNet Latency": 165.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G51",
+        "ResNet Latency": 142.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC U11",
+        "ResNet Latency": 233.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11T",
+        "ResNet Latency": 128.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 3 Pro",
+        "ResNet Latency": 217.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 12S",
+        "ResNet Latency": 145.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "T-Mobile T Phone Pro 5G",
+        "ResNet Latency": 138.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 9 SE",
+        "ResNet Latency": 242.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11S 5G",
+        "ResNet Latency": 117.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 20 Pro 5G",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BLU F91",
+        "ResNet Latency": 125.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Zero X Pro",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia X100",
+        "ResNet Latency": 176.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 12",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11 Pro",
+        "ResNet Latency": 147.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Q3 5G",
+        "ResNet Latency": 197.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Unihertz TickTock-S",
+        "ResNet Latency": 141.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee S98 Pro",
+        "ResNet Latency": 145.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y76 5G",
+        "ResNet Latency": 136.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 12 VIP",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11S",
+        "ResNet Latency": 145.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 19 Pro",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 20 A 5G",
+        "ResNet Latency": 173.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco M4 Pro",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia X20",
+        "ResNet Latency": 173.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y77",
+        "ResNet Latency": 154.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 10 Pro",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ Premium",
+        "ResNet Latency": 285.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord CE 5G",
+        "ResNet Latency": 166.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ1 Compact",
+        "ResNet Latency": 252.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V17",
+        "ResNet Latency": 188.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 7",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Z5x",
+        "ResNet Latency": 234.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A24 4G",
+        "ResNet Latency": 135.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 10T Lite 5G",
+        "ResNet Latency": 190.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A14 5G",
+        "ResNet Latency": 134.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BL8800 Pro",
+        "ResNet Latency": 143.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Narzo 30 5G",
+        "ResNet Latency": 138.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Power Armor 13",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 9 Lite",
+        "ResNet Latency": 246.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Edge 20 Lite",
+        "ResNet Latency": 132.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V23e",
+        "ResNet Latency": 154.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A72 5G",
+        "ResNet Latency": 132.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Chromebook Duet 3",
+        "ResNet Latency": 155.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S5e",
+        "ResNet Latency": 228.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno",
+        "ResNet Latency": 244.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 8 SE",
+        "ResNet Latency": 250.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S8",
+        "ResNet Latency": 233.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco M3 Pro 5G",
+        "ResNet Latency": 158.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A73 5G",
+        "ResNet Latency": 140.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 18 Premier",
+        "ResNet Latency": 141.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BL5000",
+        "ResNet Latency": 125.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BLU G91 Max",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC 10",
+        "ResNet Latency": 269.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi 6",
+        "ResNet Latency": 249.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 10 5G",
+        "ResNet Latency": 154.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee V10",
+        "ResNet Latency": 128.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 11 Pro",
+        "ResNet Latency": 145.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Z6 Youth",
+        "ResNet Latency": 284.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus 3T",
+        "ResNet Latency": 310.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S8 Active",
+        "ResNet Latency": 234.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BL8800",
+        "ResNet Latency": 140.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 18P",
+        "ResNet Latency": 144.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Tab P11 Plus",
+        "ResNet Latency": 139.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G60S",
+        "ResNet Latency": 137.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 20 R 5G",
+        "ResNet Latency": 153.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Armor 12",
+        "ResNet Latency": 123.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A70",
+        "ResNet Latency": 177.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 10",
+        "ResNet Latency": 269.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "T-Mobile REVVL V+ 5G",
+        "ResNet Latency": 153.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL Plex",
+        "ResNet Latency": 182.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 6",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BV8800",
+        "ResNet Latency": 142.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note8",
+        "ResNet Latency": 219.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 8 Pro",
+        "ResNet Latency": 146.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XZ",
+        "ResNet Latency": 335.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 10T 5G",
+        "ResNet Latency": 160.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG G6",
+        "ResNet Latency": 280.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y8p",
+        "ResNet Latency": 219.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MatePad Paper",
+        "ResNet Latency": 162.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P Smart Z",
+        "ResNet Latency": 220.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 20 Lite",
+        "ResNet Latency": 229.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y7p",
+        "ResNet Latency": 233.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A53",
+        "ResNet Latency": 190.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A8s",
+        "ResNet Latency": 269.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P30 Lite",
+        "ResNet Latency": 386.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "OnePlus Nord N10",
+        "ResNet Latency": 194.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P smart 2021",
+        "ResNet Latency": 261.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y9 Prime",
+        "ResNet Latency": 265.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Facebook Portal Plus",
+        "ResNet Latency": 257.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC A100",
+        "ResNet Latency": 182.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 8X",
+        "ResNet Latency": 259.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C25Y",
+        "ResNet Latency": 183.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Pad Mini",
+        "ResNet Latency": 197.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Z5 Compact",
+        "ResNet Latency": 408.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G52",
+        "ResNet Latency": 198.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Teclast T40 Pro",
+        "ResNet Latency": 190.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Tab 11",
+        "ResNet Latency": 195.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 3a XL",
+        "ResNet Latency": 235.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 12 4G",
+        "ResNet Latency": 182.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lava Blaze 2",
+        "ResNet Latency": 204.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Tab 16",
+        "ResNet Latency": 205.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 9",
+        "ResNet Latency": 197.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 9 Pro",
+        "ResNet Latency": 202.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 19",
+        "ResNet Latency": 203.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 10X 4G",
+        "ResNet Latency": 198.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Pixel 3a",
+        "ResNet Latency": 238.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 9",
+        "ResNet Latency": 198.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 12 Play NFC",
+        "ResNet Latency": 205.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C31",
+        "ResNet Latency": 208.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade V40 Design",
+        "ResNet Latency": 207.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto E40",
+        "ResNet Latency": 203.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Narzo 50A Prime",
+        "ResNet Latency": 210.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor X8",
+        "ResNet Latency": 224.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C35",
+        "ResNet Latency": 197.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A23",
+        "ResNet Latency": 218.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Narzo 50i Prime",
+        "ResNet Latency": 211.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Tab M10",
+        "ResNet Latency": 208.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia T21",
+        "ResNet Latency": 214.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco C55",
+        "ResNet Latency": 195.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia T20",
+        "ResNet Latency": 209.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 5i",
+        "ResNet Latency": 241.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C21Y",
+        "ResNet Latency": 205.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G20",
+        "ResNet Latency": 202.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee T20",
+        "ResNet Latency": 215.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A32 5G",
+        "ResNet Latency": 305.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oukitel WP22",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A96",
+        "ResNet Latency": 221.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab A8",
+        "ResNet Latency": 229.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11 4G",
+        "ResNet Latency": 214.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y51",
+        "ResNet Latency": 265.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia 10 II",
+        "ResNet Latency": 256.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C53",
+        "ResNet Latency": 214.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 10L",
+        "ResNet Latency": 258.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno5 Lite",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo T1",
+        "ResNet Latency": 221.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y31",
+        "ResNet Latency": 259.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 11",
+        "ResNet Latency": 229.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C55",
+        "ResNet Latency": 221.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi A3",
+        "ResNet Latency": 267.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo S1 Pro",
+        "ResNet Latency": 273.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A5",
+        "ResNet Latency": 272.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A95",
+        "ResNet Latency": 263.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo F17",
+        "ResNet Latency": 265.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme 9i",
+        "ResNet Latency": 230.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V15",
+        "ResNet Latency": 220.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V20 SE",
+        "ResNet Latency": 261.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 8",
+        "ResNet Latency": 264.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A9",
+        "ResNet Latency": 263.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Micromax In 2b",
+        "ResNet Latency": 202.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 10L",
+        "ResNet Latency": 258.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C33",
+        "ResNet Latency": 225.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sharp Aquos sense5G",
+        "ResNet Latency": 241.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A22",
+        "ResNet Latency": 215.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno2 F",
+        "ResNet Latency": 216.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 8T",
+        "ResNet Latency": 268.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 12",
+        "ResNet Latency": 201.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo F11 Pro",
+        "ResNet Latency": 222.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Cubot Pocket",
+        "ResNet Latency": 227.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno3 Pro",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 10C",
+        "ResNet Latency": 224.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 8C",
+        "ResNet Latency": 229.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview A100",
+        "ResNet Latency": 223.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Pova 3",
+        "ResNet Latency": 211.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M32",
+        "ResNet Latency": 207.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 50 Lite",
+        "ResNet Latency": 259.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview A85",
+        "ResNet Latency": 236.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A32",
+        "ResNet Latency": 210.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Oscal C80",
+        "ResNet Latency": 236.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia G21",
+        "ResNet Latency": 228.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto E32",
+        "ResNet Latency": 229.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S6 edge+",
+        "ResNet Latency": 320.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab A7 10.4",
+        "ResNet Latency": 258.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Oscal C70",
+        "ResNet Latency": 237.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia G22",
+        "ResNet Latency": 235.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Pova 2",
+        "ResNet Latency": 198.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia 7 plus",
+        "ResNet Latency": 261.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 10s",
+        "ResNet Latency": 197.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Meizu 15",
+        "ResNet Latency": 256.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Oscal Pad 13",
+        "ResNet Latency": 240.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 10C",
+        "ResNet Latency": 235.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Oscal Pad 10",
+        "ResNet Latency": 241.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 11s",
+        "ResNet Latency": 198.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Note 7",
+        "ResNet Latency": 243.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 9T",
+        "ResNet Latency": 264.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia G11 Plus",
+        "ResNet Latency": 236.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Oscal S80",
+        "ResNet Latency": 224.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 8",
+        "ResNet Latency": 271.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 18",
+        "ResNet Latency": 218.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor X8a",
+        "ResNet Latency": 262.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC Desire 20 Pro",
+        "ResNet Latency": 332.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Camon 17",
+        "ResNet Latency": 209.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 10 Pro",
+        "ResNet Latency": 220.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A9",
+        "ResNet Latency": 273.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 10",
+        "ResNet Latency": 232.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco M3",
+        "ResNet Latency": 287.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A03",
+        "ResNet Latency": 237.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Tab 13",
+        "ResNet Latency": 228.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Cubot X50",
+        "ResNet Latency": 230.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo Reno Z",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy F41",
+        "ResNet Latency": 234.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M31",
+        "ResNet Latency": 230.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S5",
+        "ResNet Latency": 484.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme Pad",
+        "ResNet Latency": 198.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A32",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y53s 4G",
+        "ResNet Latency": 219.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 5",
+        "ResNet Latency": 237.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi A2",
+        "ResNet Latency": 279.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia T10",
+        "ResNet Latency": 236.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Wiko T50",
+        "ResNet Latency": 228.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M21",
+        "ResNet Latency": 225.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A51",
+        "ResNet Latency": 238.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A50s",
+        "ResNet Latency": 235.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 7",
+        "ResNet Latency": 274.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S6 Lite",
+        "ResNet Latency": 230.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Essential Phone",
+        "ResNet Latency": 225.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Umidigi Bison X10S",
+        "ResNet Latency": 267.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MediaPad M5",
+        "ResNet Latency": 253.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Note 10P",
+        "ResNet Latency": 258.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Cubot KingKong 7",
+        "ResNet Latency": 256.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y20",
+        "ResNet Latency": 412.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 9",
+        "ResNet Latency": 264.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G8 Power",
+        "ResNet Latency": 255.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Max 3",
+        "ResNet Latency": 298.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Note 3",
+        "ResNet Latency": 278.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A31",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Fairphone 3",
+        "ResNet Latency": 286.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 5 Pro",
+        "ResNet Latency": 297.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G9 Play",
+        "ResNet Latency": 257.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone Max Pro (M1)",
+        "ResNet Latency": 300.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BLU M8L 2022",
+        "ResNet Latency": 284.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 20 SE",
+        "ResNet Latency": 482.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G Stylus",
+        "ResNet Latency": 262.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MediaPad M3",
+        "ResNet Latency": 316.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G30",
+        "ResNet Latency": 252.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Z3 Play",
+        "ResNet Latency": 290.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G7",
+        "ResNet Latency": 305.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G13",
+        "ResNet Latency": 243.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C30",
+        "ResNet Latency": 235.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G23",
+        "ResNet Latency": 0.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview Tab 12",
+        "ResNet Latency": 306.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 8",
+        "ResNet Latency": 322.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P9",
+        "ResNet Latency": 328.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C3",
+        "ResNet Latency": 207.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview BV6600E",
+        "ResNet Latency": 321.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A13 5G",
+        "ResNet Latency": 179.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A8+",
+        "ResNet Latency": 335.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee X96 Pro",
+        "ResNet Latency": 330.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Note 12P",
+        "ResNet Latency": 326.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 7",
+        "ResNet Latency": 338.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia C31",
+        "ResNet Latency": 311.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A8",
+        "ResNet Latency": 361.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G7 Supra",
+        "ResNet Latency": 317.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A14",
+        "ResNet Latency": 277.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Alcatel 1s",
+        "ResNet Latency": 307.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G Power",
+        "ResNet Latency": 323.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A54",
+        "ResNet Latency": 315.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G Play",
+        "ResNet Latency": 299.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo M10 Plus",
+        "ResNet Latency": 330.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C15",
+        "ResNet Latency": 323.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade V10 Vita",
+        "ResNet Latency": 298.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A12 Nacho",
+        "ResNet Latency": 315.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 10",
+        "ResNet Latency": 333.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola E20",
+        "ResNet Latency": 257.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M20",
+        "ResNet Latency": 336.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei nova 2 plus",
+        "ResNet Latency": 321.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia X Compact",
+        "ResNet Latency": 343.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M12",
+        "ResNet Latency": 298.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P20 lite",
+        "ResNet Latency": 315.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola E7 Plus",
+        "ResNet Latency": 299.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A30s",
+        "ResNet Latency": 343.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab A 8.0",
+        "ResNet Latency": 317.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A30",
+        "ResNet Latency": 343.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A21s",
+        "ResNet Latency": 301.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Mate 10 Lite",
+        "ResNet Latency": 323.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C21",
+        "ResNet Latency": 338.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V11i",
+        "ResNet Latency": 237.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto G22",
+        "ResNet Latency": 371.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A40",
+        "ResNet Latency": 339.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V9",
+        "ResNet Latency": 333.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A03s",
+        "ResNet Latency": 335.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lava Blaze Pro",
+        "ResNet Latency": 382.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y21",
+        "ResNet Latency": 342.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Ace II",
+        "ResNet Latency": 378.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nintendo Switch",
+        "ResNet Latency": 366.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lava Z61 Pro",
+        "ResNet Latency": 298.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 11 G37",
+        "ResNet Latency": 361.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Tab A7",
+        "ResNet Latency": 393.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Raspberry Pi 4",
+        "ResNet Latency": 422.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola One",
+        "ResNet Latency": 337.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Max 2",
+        "ResNet Latency": 324.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor X7a",
+        "ResNet Latency": 343.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Tab M10 Gen 2",
+        "ResNet Latency": 373.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BlackBerry Keyone",
+        "ResNet Latency": 332.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 9",
+        "ResNet Latency": 360.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade A71",
+        "ResNet Latency": 327.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S6",
+        "ResNet Latency": 321.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A12",
+        "ResNet Latency": 355.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi A1",
+        "ResNet Latency": 337.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia G20",
+        "ResNet Latency": 408.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BLU G9 Pro",
+        "ResNet Latency": 237.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MediaPad T5",
+        "ResNet Latency": 327.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S6 edge",
+        "ResNet Latency": 311.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A16",
+        "ResNet Latency": 398.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 8",
+        "ResNet Latency": 325.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y11",
+        "ResNet Latency": 297.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 5 Plus",
+        "ResNet Latency": 335.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi A2 Lite",
+        "ResNet Latency": 335.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab A7 Lite",
+        "ResNet Latency": 331.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo F9",
+        "ResNet Latency": 263.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A20e",
+        "ResNet Latency": 352.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P10 Lite",
+        "ResNet Latency": 354.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 20B",
+        "ResNet Latency": 358.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade 20",
+        "ResNet Latency": 262.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 6X",
+        "ResNet Latency": 412.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 4",
+        "ResNet Latency": 336.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Armor X10 Pro",
+        "ResNet Latency": 393.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo F7",
+        "ResNet Latency": 245.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P smart",
+        "ResNet Latency": 328.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 8T",
+        "ResNet Latency": 416.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Blackview A55 Pro",
+        "ResNet Latency": 385.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LeEco Le S3",
+        "ResNet Latency": 405.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 10 Play",
+        "ResNet Latency": 406.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "TCL 20Y",
+        "ResNet Latency": 399.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A12",
+        "ResNet Latency": 410.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone Max Shot",
+        "ResNet Latency": 368.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Hot 12i",
+        "ResNet Latency": 421.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 5 pro",
+        "ResNet Latency": 445.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G8 Power Lite",
+        "ResNet Latency": 446.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lava Blaze",
+        "ResNet Latency": 384.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 8",
+        "ResNet Latency": 428.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark Go",
+        "ResNet Latency": 376.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C11",
+        "ResNet Latency": 312.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG Stylo 6",
+        "ResNet Latency": 410.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Mi Max",
+        "ResNet Latency": 427.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A7",
+        "ResNet Latency": 383.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A15s",
+        "ResNet Latency": 443.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei nova",
+        "ResNet Latency": 362.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Infinix Smart 7",
+        "ResNet Latency": 382.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Doogee X97 Pro",
+        "ResNet Latency": 397.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia C110",
+        "ResNet Latency": 409.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco C40",
+        "ResNet Latency": 339.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola E7 Power",
+        "ResNet Latency": 462.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A15",
+        "ResNet Latency": 477.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 7",
+        "ResNet Latency": 449.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A20s",
+        "ResNet Latency": 409.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G7 Play",
+        "ResNet Latency": 336.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lava Z3",
+        "ResNet Latency": 389.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor Play 8A",
+        "ResNet Latency": 376.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo A5s",
+        "ResNet Latency": 479.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 9",
+        "ResNet Latency": 423.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XA1 Ultra",
+        "ResNet Latency": 432.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola E6 Plus",
+        "ResNet Latency": 482.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y7 Pro",
+        "ResNet Latency": 443.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Z3 Tablet Compact",
+        "ResNet Latency": 386.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XA1 Plus",
+        "ResNet Latency": 450.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia L3",
+        "ResNet Latency": 486.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Ulefone Note 7P",
+        "ResNet Latency": 463.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Nexus 6",
+        "ResNet Latency": 321.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MediaPad M3 Lite 10",
+        "ResNet Latency": 389.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Tab M8",
+        "ResNet Latency": 416.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei MediaPad M2",
+        "ResNet Latency": 383.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Z1 Compact",
+        "ResNet Latency": 389.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia XA1",
+        "ResNet Latency": 431.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Oppo F3",
+        "ResNet Latency": 477.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Z3 Compact",
+        "ResNet Latency": 429.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P9 lite",
+        "ResNet Latency": 348.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 5c",
+        "ResNet Latency": 374.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 6",
+        "ResNet Latency": 416.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi S2",
+        "ResNet Latency": 390.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G Pure",
+        "ResNet Latency": 407.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nvidia Shield",
+        "ResNet Latency": 506.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 10A",
+        "ResNet Latency": 454.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Wiko View3",
+        "ResNet Latency": 531.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade V8 Mini",
+        "ResNet Latency": 406.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Itel A60s",
+        "ResNet Latency": 377.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A5",
+        "ResNet Latency": 541.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A01",
+        "ResNet Latency": 363.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC Desire Eye",
+        "ResNet Latency": 460.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S5",
+        "ResNet Latency": 405.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y6p",
+        "ResNet Latency": 433.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Z3",
+        "ResNet Latency": 431.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note 4",
+        "ResNet Latency": 549.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 9C",
+        "ResNet Latency": 520.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y7 Pro",
+        "ResNet Latency": 423.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia C30",
+        "ResNet Latency": 358.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC One A9",
+        "ResNet Latency": 464.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C11",
+        "ResNet Latency": 366.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A03 Core",
+        "ResNet Latency": 355.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Pouvoir 4",
+        "ResNet Latency": 465.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 9C NFC",
+        "ResNet Latency": 554.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 6A",
+        "ResNet Latency": 474.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi A2",
+        "ResNet Latency": 453.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Poco C51",
+        "ResNet Latency": 453.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M11",
+        "ResNet Latency": 506.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Realme C30s",
+        "ResNet Latency": 362.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J8",
+        "ResNet Latency": 509.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark Go",
+        "ResNet Latency": 429.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note 3",
+        "ResNet Latency": 509.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG K42",
+        "ResNet Latency": 478.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 8C",
+        "ResNet Latency": 426.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 5A",
+        "ResNet Latency": 448.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A02s",
+        "ResNet Latency": 516.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J7 Pro",
+        "ResNet Latency": 515.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Pop 5 Pro",
+        "ResNet Latency": 445.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y6 Pro",
+        "ResNet Latency": 538.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia 5",
+        "ResNet Latency": 415.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 8S",
+        "ResNet Latency": 516.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y6",
+        "ResNet Latency": 495.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J7 Prime",
+        "ResNet Latency": 475.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A6",
+        "ResNet Latency": 532.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Tecno Spark 4 Air",
+        "ResNet Latency": 521.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G6",
+        "ResNet Latency": 450.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note Pro 12.2",
+        "ResNet Latency": 526.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 3s",
+        "ResNet Latency": 508.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J6",
+        "ResNet Latency": 529.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BLU View 2",
+        "ResNet Latency": 465.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor 6C Pro",
+        "ResNet Latency": 793.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 3 Laser",
+        "ResNet Latency": 516.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y5",
+        "ResNet Latency": 507.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Phab2",
+        "ResNet Latency": 488.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A11",
+        "ResNet Latency": 520.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Tab S 10.5",
+        "ResNet Latency": 637.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi 9A",
+        "ResNet Latency": 537.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Google Nexus 7",
+        "ResNet Latency": 553.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo V5 Lite",
+        "ResNet Latency": 552.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus MeMO Pad 10",
+        "ResNet Latency": 525.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy M10",
+        "ResNet Latency": 486.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei P8lite",
+        "ResNet Latency": 460.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Honor X5",
+        "ResNet Latency": 606.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto E7i Power",
+        "ResNet Latency": 662.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A7",
+        "ResNet Latency": 515.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y6 Pro",
+        "ResNet Latency": 555.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A5",
+        "ResNet Latency": 542.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S5 Neo",
+        "ResNet Latency": 557.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G6 Play",
+        "ResNet Latency": 507.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola Moto X Play",
+        "ResNet Latency": 483.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 2 Laser",
+        "ResNet Latency": 542.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade A31",
+        "ResNet Latency": 359.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J3",
+        "ResNet Latency": 524.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG Nexus 5",
+        "ResNet Latency": 614.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG G4",
+        "ResNet Latency": 511.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy A3",
+        "ResNet Latency": 517.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi Note 4",
+        "ResNet Latency": 601.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia 3",
+        "ResNet Latency": 609.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J5 Prime",
+        "ResNet Latency": 556.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Meizu M8 Lite",
+        "ResNet Latency": 761.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Xcover 4",
+        "ResNet Latency": 554.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Vibe S1",
+        "ResNet Latency": 936.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Xiaomi Redmi A1",
+        "ResNet Latency": 429.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J7",
+        "ResNet Latency": 588.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Itel A23S",
+        "ResNet Latency": 553.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG K8",
+        "ResNet Latency": 572.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S4",
+        "ResNet Latency": 576.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note 3",
+        "ResNet Latency": 662.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Itel A60",
+        "ResNet Latency": 591.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC One",
+        "ResNet Latency": 765.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Vsmart Star 3",
+        "ResNet Latency": 651.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Tablet Z LTE",
+        "ResNet Latency": 813.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Sony Xperia Z",
+        "ResNet Latency": 888.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "vivo Y51",
+        "ResNet Latency": 795.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BlackBerry Priv",
+        "ResNet Latency": 1126.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Google Nexus 10",
+        "ResNet Latency": 847.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S4",
+        "ResNet Latency": 994.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "LG Stylus 2",
+        "ResNet Latency": 1177.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Nokia N1",
+        "ResNet Latency": 945.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola G4 Play",
+        "ResNet Latency": 628.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Note 10.1",
+        "ResNet Latency": 1646.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J3",
+        "ResNet Latency": 1448.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE ZMax Champ",
+        "ResNet Latency": 1497.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo TAB 10",
+        "ResNet Latency": 1662.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J5",
+        "ResNet Latency": 1711.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Grand Prime",
+        "ResNet Latency": 598.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Yoga Tab 3 10",
+        "ResNet Latency": 1862.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "ZTE Blade A31 Lite",
+        "ResNet Latency": 1169.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo Yoga Tablet 2 Pro",
+        "ResNet Latency": 1475.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BQ Edison 3 mini",
+        "ResNet Latency": 1586.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S3 Neo",
+        "ResNet Latency": 1360.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Zenfone 2",
+        "ResNet Latency": 1692.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J1 Nxt",
+        "ResNet Latency": 1233.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Wiko Y50",
+        "ResNet Latency": 1479.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Lenovo A7-30 A3300",
+        "ResNet Latency": 1307.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Motorola E5 Play",
+        "ResNet Latency": 6099.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy J1",
+        "ResNet Latency": 1250.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "BLU C5 2019",
+        "ResNet Latency": 1419.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Huawei Y560",
+        "ResNet Latency": 1578.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Cat S30",
+        "ResNet Latency": 1709.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "HTC One X+",
+        "ResNet Latency": 4886.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy S2",
+        "ResNet Latency": 3972.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Asus Fonepad 7",
+        "ResNet Latency": 3602.0,
+        "ResNet STD": 0
+    },
+    {
+        "Phone Model": "Samsung Galaxy Young",
+        "ResNet Latency": 15070.0,
+        "ResNet STD": 0
     }
 ]
