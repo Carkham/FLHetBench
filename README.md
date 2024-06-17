@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 #### 1.1 Sampling
 
-**TL;DR: For simplicity, you can use the device and state heterogeneity data provided in `bench/cached_sample_data` directly (please refer to [Sec 2.](#2.Benchmark your methods with FLHetBench)) or build your own heterogeneous environment with DPGMM and DPCSM**
+**TL;DR: For simplicity, you can use the device and state heterogeneity data provided in `bench/cached_sample_data` directly (please refer to [Sec 2.](#2benchmark-your-methods-with-flhetbench)) or build your own heterogeneous environment with DPGMM and DPCSM**
 
 ##### 1.1.1 Our sampled device and state data distributions
 
