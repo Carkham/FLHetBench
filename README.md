@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 <img src="assets/heterogeneity data.png" alt="heterogeneity data" style="zoom:50%;" />
 
-- Device speed with mild, middle and severe heterogeneity.
+- Device speed(device heterogeneity) and client states(state heterogeneity) of the sampled datasets with different heterogeneity levels (mild, middle and severe).
 
 ##### 1.1.2 Build your own heterogeneous environment with DPGMM and DPCSM 
 
