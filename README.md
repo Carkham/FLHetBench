@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ##### 1.1.1 Our sampled device and state data distributions
 
-<img src="assets/device distribution.png" alt="image-20240614152615317" style="zoom:50%;" />
+<img src="assets/heterogeneity data.png" alt="heterogeneity data" style="zoom:50%;" />
 
 - Device speed with mild, middle and severe heterogeneity.
 
