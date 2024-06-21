@@ -145,7 +145,20 @@ BiasPrompt+ comprises two modules: a gradient surgery-based staleness-aware aggr
 bash shells/biasprompt.sh 0
 ```
 
-## Acknowledgments
+# Citation
+If you find our code or paper useful, please consider citing:
+```
+@InProceedings{Zhang_2024_CVPR,
+    author    = {Zhang, Junyuan and Zeng, Shuang and Zhang, Miao and Wang, Runxi and Wang, Feifei and Zhou, Yuyin and Liang, Paul Pu and Qu, Liangqiong},
+    title     = {FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {12098-12108}
+}
+```
+
+# Acknowledgments
 
 - Our code is based on [PKU-Chengxu/FLASH (github.com)](https://github.com/PKU-Chengxu/FLASH)
 
